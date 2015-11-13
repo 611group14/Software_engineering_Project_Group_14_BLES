@@ -1,7 +1,6 @@
 package group_14.software_engineering_project_group_14_bles;
 
 import com.google.android.gms.maps.model.LatLng;
-import group_14.software_engineering_project_group_14_bles.FireStationList;
 import java.util.ArrayList;
 
 /**

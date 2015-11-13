@@ -29,6 +29,7 @@ import android.widget.Toast;
 
 /**
  * Utility class for access to runtime permissions.
+ * This class is mainly in charge of getting permission from google services for GPS feature
  */
 public abstract class PermissionUtils {
 
