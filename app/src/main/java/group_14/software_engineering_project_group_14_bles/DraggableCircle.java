@@ -40,6 +40,7 @@ public class DraggableCircle {
                 .position(center)
                 .title("Evaluation(Test)")
                 .snippet("Please click on this window for evaluating current location")
+                .icon(BitmapDescriptorFactory.fromResource(R.drawable.ic_person_pin_circle_black_36dp))
                 .draggable(true));
 
 //        radiusMarker = mMap.addMarker(new MarkerOptions()

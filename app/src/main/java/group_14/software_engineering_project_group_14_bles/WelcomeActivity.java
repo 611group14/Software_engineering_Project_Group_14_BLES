@@ -10,7 +10,14 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 import com.google.android.gms.maps.model.LatLng;
+
+import java.io.Console;
 import java.util.ArrayList;
+import java.util.Timer;
+import java.util.TimerTask;
+
+import com.romainpiel.titanic.library.Titanic;
+import com.romainpiel.titanic.library.TitanicTextView;
 
 import group_14.software_engineering_project_group_14_bles.dataparsing.XMLDataParser;
 
@@ -20,14 +27,20 @@ public class WelcomeActivity extends AppCompatActivity {
     //Button Initialize;
     Context context = this;
     SharedPreferences prefs = null;
-
-
-
+    int initial_id = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
+
+        TitanicTextView tv = (TitanicTextView) findViewById(R.id.my_text_view);
+
+        // set fancy typeface
+        tv.setTypeface(Typefaces.get(this, "ARCADE.TTF"));
+
+        // start animation
+        new Titanic().start(tv);
 
         prefs = getSharedPreferences("Running time",MODE_PRIVATE);
 
@@ -74,20 +87,22 @@ public class WelcomeActivity extends AppCompatActivity {
                 // Loop rows.
                 for (ArrayList<String> row : facility) {
                     // Get all information of one row.
+
                     userDbHelper.addFacilityInformations(userDbHelper,
-                            row.get(0),
+                            String.valueOf(initial_id),
                             row.get(1),
                             row.get(2),
                             row.get(3),
                             row.get(4),
                             row.get(5));
-
+                    initial_id++;
                 }
             }
 
-
+            prefs.edit().putBoolean("firstrun", false).commit();
             //Toast.makeText(getBaseContext(), "Data saved", Toast.LENGTH_LONG).show();
             userDbHelper.close();
+
         }
 
         //UserDbHelper userDbHelper;
@@ -124,54 +139,54 @@ public class WelcomeActivity extends AppCompatActivity {
         Toast.makeText(getBaseContext(),"i = " + i ,Toast.LENGTH_LONG).show();
         */
 
-        ToMap = (Button)findViewById(R.id.ToMap);
-        ToMap.setOnClickListener(new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v)
-            {
-                MapsActivity.fireStationLocationList.clear();
-                /*
-                UserDbHelper userDbHelper;
-                userDbHelper = new UserDbHelper(context);
-                int i =0;
-
-                Cursor CR = userDbHelper.getInformations(userDbHelper);
-                if(CR.moveToFirst())
-                {
-                    do
-                    {
-                        //fsl[i].setAddress(CR.getString(0));
-                        double coordinate_x = Double.parseDouble(CR.getString(1));
-                        double coordinate_y = Double.parseDouble(CR.getString(2));
-
-
-                        test.add(coordinate_x);
-                        Toast.makeText(getBaseContext(),"Test X1 = " + test.get(i), Toast.LENGTH_LONG).show();
-                        //fs_coordinates[i] = new LatLng(coordinate_x,coordinate_y);
-                        //mMap.addMarker(new MarkerOptions().position(new LatLng(coordinate_x,coordinate_y)));
-                        //fsl[i].setX(coordinate_x);
-                        //fsl[i].setY(coordinate_y);
-                        //fsl[i].setOtherinfo(CR.getString(3));
-                        i++;
-                    }while(CR.moveToNext());
-                }
-
-                Toast.makeText(getBaseContext(),"i = " + i ,Toast.LENGTH_LONG).show();
-                */
-
-                Intent intent = new Intent();
-                intent.setClass(WelcomeActivity.this, MapsActivity.class);
-                /*
-                for(int j =0; j<fireStationArrayList.size();j++)
-                {
-                    //Toast.makeText(getBaseContext(),"X = " + fireStationArrayList.get(j).getX() ,Toast.LENGTH_LONG).show();
-                    MapsActivity.fireStationLocationList.add(j,new LatLng(fireStationArrayList.get(j).getX(),fireStationArrayList.get(j).getY()));
-                }*/
-                //Toast.makeText(getBaseContext(),"fireStationArrayList size = " + fireStationArrayList.size() ,Toast.LENGTH_LONG).show();
-                startActivity(intent);
-            }
-        });
+//        ToMap = (Button)findViewById(R.id.ToMap);
+//        ToMap.setOnClickListener(new View.OnClickListener()
+//        {
+//            @Override
+//            public void onClick(View v)
+//            {
+//                MapsActivity.fireStationLocationList.clear();
+//                /*
+//                UserDbHelper userDbHelper;
+//                userDbHelper = new UserDbHelper(context);
+//                int i =0;
+//
+//                Cursor CR = userDbHelper.getInformations(userDbHelper);
+//                if(CR.moveToFirst())
+//                {
+//                    do
+//                    {
+//                        //fsl[i].setAddress(CR.getString(0));
+//                        double coordinate_x = Double.parseDouble(CR.getString(1));
+//                        double coordinate_y = Double.parseDouble(CR.getString(2));
+//
+//
+//                        test.add(coordinate_x);
+//                        Toast.makeText(getBaseContext(),"Test X1 = " + test.get(i), Toast.LENGTH_LONG).show();
+//                        //fs_coordinates[i] = new LatLng(coordinate_x,coordinate_y);
+//                        //mMap.addMarker(new MarkerOptions().position(new LatLng(coordinate_x,coordinate_y)));
+//                        //fsl[i].setX(coordinate_x);
+//                        //fsl[i].setY(coordinate_y);
+//                        //fsl[i].setOtherinfo(CR.getString(3));
+//                        i++;
+//                    }while(CR.moveToNext());
+//                }
+//
+//                Toast.makeText(getBaseContext(),"i = " + i ,Toast.LENGTH_LONG).show();
+//                */
+//
+//                Intent intent = new Intent();
+//                intent.setClass(WelcomeActivity.this, MapsActivity.class);
+//                /*
+//                for(int j =0; j<fireStationArrayList.size();j++)
+//                {
+//                    //Toast.makeText(getBaseContext(),"X = " + fireStationArrayList.get(j).getX() ,Toast.LENGTH_LONG).show();
+//                    MapsActivity.fireStationLocationList.add(j,new LatLng(fireStationArrayList.get(j).getX(),fireStationArrayList.get(j).getY()));
+//                }*/
+//                //Toast.makeText(getBaseContext(),"fireStationArrayList size = " + fireStationArrayList.size() ,Toast.LENGTH_LONG).show();
+//                startActivity(intent);
+//            }
+//        });
 
 
 
@@ -199,8 +214,17 @@ public class WelcomeActivity extends AppCompatActivity {
         });
          */
 
-    }
+        Timer timer=new Timer();
+        timer.schedule(new TimerTask() {
+            public void run() {
+                Intent intent = new Intent();
+                intent.setClass(WelcomeActivity.this, MapsActivity.class);
+                startActivity(intent);
+                this.cancel();
+            }
+        },4000);
 
+    }
 
 
 
