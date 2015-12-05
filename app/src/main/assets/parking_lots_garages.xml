@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>City Hall Square</address>
+        <x>42.31687953</x>
+        <y>-83.03514397</y>
+        <other>Parking Lot 17</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Wyandotte/Langlois</address>
+        <x>42.31897415</x>
+        <y>-83.0220301</y>
+        <other>Parking Lot 6</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Erie/Marentette Lot</address>
+        <x>42.31251703</x>
+        <y>-83.02216973</y>
+        <other>Parking Lot 37</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Ferry and Pitt</address>
+        <x>42.31902056</x>
+        <y>-83.04137193</y>
+        <other>Municipal Parking Garage</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Erie/Langlois Lot</address>
+        <x>42.31436944</x>
+        <y>-83.01908288</y>
+        <other>Parking Lot 36</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Erie/Elsmere Lot</address>
+        <x>42.31266244</x>
+        <y>-83.02175746</y>
+        <other>Parking Lot 35</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Ottawa Lot</address>
+        <x>42.30919045</x>
+        <y>-83.01240548</y>
+        <other>Parking Lot 4-3</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Reaume Park Parking Lot</address>
+        <x>42.32891229</x>
+        <y>-82.9817307</y>
+        <other>Parking Lot 52</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Riverfront - Casino</address>
+        <x>42.32160466</x>
+        <y>-83.03221988</y>
+        <other>Parking Lot 34</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Boiler Room Lot</address>
+        <x>42.3166947</x>
+        <y>-83.03416287</y>
+        <other>Parking Lot 32</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Parking Enforcement Lot</address>
+        <x>42.3146496</x>
+        <y>-83.03393973</y>
+        <other>Parking Lot 8</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>City Hall Square South Lot</address>
+        <x>42.31695393</x>
+        <y>-83.03469027</y>
+        <other>Parking Lot 1</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>City Council Parking Lot</address>
+        <x>42.31730281</x>
+        <y>-83.03572823</y>
+        <other>Parking Lot 20</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Police Lot</address>
+        <x>42.31655537</x>
+        <y>-83.03572668</y>
+        <other>Parking Lot 10</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Wyandotte/Lincoln Walkerville Lot</address>
+        <x>42.32131157</x>
+        <y>-83.01519782</y>
+        <other>Parking Lot 14</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Tecumseh-Moy Parking Lot</address>
+        <x>42.30057101</x>
+        <y>-83.00529401</y>
+        <other>Parking Lot 21</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Ottawa Lot</address>
+        <x>42.31036256</x>
+        <y>-83.00926703</y>
+        <other>Parking Lot 4-1</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Ottawa Lot</address>
+        <x>42.31101274</x>
+        <y>-83.0109654</y>
+        <other>Parking Lot 4-2</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>City Hall Lot - 400 Bldg</address>
+        <x>42.31793219</x>
+        <y>-83.03445694</y>
+        <other>Parking Lot 38</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Howard/Erie Lot</address>
+        <x>42.31218532</x>
+        <y>-83.0266122</y>
+        <other>Parking Lot 29</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Glengarry Pool Lot</address>
+        <x>42.31639693</x>
+        <y>-83.03165981</y>
+        <other>Parking Lot 31</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Arena Parking Lot - Metered Public Parking</address>
+        <x>42.31589758</x>
+        <y>-83.03318583</y>
+        <other>Parking Lot 12</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Arena Parking Lot - City Employee Parking</address>
+        <x>42.31631702</x>
+        <y>-83.03346322</y>
+        <other>Parking Lot 11</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>City Hall Lot</address>
+        <x>42.31820973</x>
+        <y>-83.03479553</y>
+        <other>Parking Lot 19</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Jackson Park Parking Lot</address>
+        <x>42.29592093</x>
+        <y>-83.02194325</y>
+        <other>Parking Lot 51</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Main Library Lot</address>
+        <x>42.31134641</x>
+        <y>-83.03355381</y>
+        <other>Parking Lot 18</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Pelissier/Wyandotte Lot</address>
+        <x>42.312912</x>
+        <y>-83.03748939</y>
+        <other>Parking Lot 15</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Park-Pelissier Parking Garage</address>
+        <x>42.31571148</x>
+        <y>-83.03874502</y>
+        <other>Municipal Parking Garage</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Place Goyeau Parking Garage</address>
+        <x>42.31895865</x>
+        <y>-83.03810572</y>
+        <other>Municipal Parking Garage</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>C.N.R. Riverfront Lot</address>
+        <x>42.32024128</x>
+        <y>-83.03908302</y>
+        <other>Parking Lot 16</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Dieppe Gardens Lot Riverfront</address>
+        <x>42.31981633</x>
+        <y>-83.04124594</y>
+        <other>Parking Lot 5</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>University and Bruce Lot</address>
+        <x>42.31635369</x>
+        <y>-83.04567654</y>
+        <other>Parking Lot 22</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Caron Avenue Lot</address>
+        <x>42.31635226</x>
+        <y>-83.04813138</y>
+        <other>Parking Lot 23</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Randolph Lot</address>
+        <x>42.30522464</x>
+        <y>-83.06103668</y>
+        <other>Parking Lot 28</other>
+        <type>Parking Lots Garages</type>
+    </row>
+    <row>
+        <address>Assumption Park Parking Lot</address>
+        <x>42.31170242</x>
+        <y>-83.06771742</y>
+        <other>Parking Lot 9</other>
+        <type>Parking Lots Garages</type>
+    </row>
+</facility>

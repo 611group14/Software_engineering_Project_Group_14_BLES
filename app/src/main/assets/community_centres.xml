@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>3215 Forest Glade Dr</address>
+        <x>42.303163</x>
+        <y>-82.91572</y>
+        <other>Forest Glade Community Centre</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>5200 Matchette Rd</address>
+        <x>42.264283</x>
+        <y>-83.075724</y>
+        <other>Ojibway Nature Centre</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>2520 Cabana Rd W</address>
+        <x>42.253244</x>
+        <y>-83.033242</y>
+        <other>Oakwood Community Centre</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>4270 Alice St</address>
+        <x>42.313454</x>
+        <y>-82.978547</y>
+        <other>Constable John Atkinson Memorial Community Centre(Formerly Known as AKO Neighbourhood Centre)</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>495 Glengarry Ave</address>
+        <x>42.317299</x>
+        <y>-83.031128</y>
+        <other>Glengarry Court Community Centre</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>1899 Niagara St</address>
+        <x>42.318569</x>
+        <y>-83.011134</y>
+        <other>Willistead Heritage Complex</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>3277 Sandwich St</address>
+        <x>42.300132</x>
+        <y>-83.076502</y>
+        <other>Mackenzie Hall Cultural Centre</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>1551 Wyandotte St W</address>
+        <x>42.307922</x>
+        <y>-83.053372</y>
+        <other>Adie Knox Herman Recreation Complex</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>1168 Drouillard Rd</address>
+        <x>42.319291</x>
+        <y>-82.998281</y>
+        <other>Gino A. Marcus Community Complex</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>400 Wyandotte St E</address>
+        <x>42.316671</x>
+        <y>-83.03119</y>
+        <other>Windsor Water World</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>4200 Malden Rd</address>
+        <x>42.276843</x>
+        <y>-83.06098</y>
+        <other>Malden Park Visitors Centre</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>1075 Ypres Ave</address>
+        <x>42.292369</x>
+        <y>-83.003674</y>
+        <other>Optimist Community Centre</other>
+        <type>Community Center</type>
+    </row>
+    <row>
+        <address>635 McEwan Ave</address>
+        <x>42.306862</x>
+        <y>-83.05479</y>
+        <other>Centres for Seniors</other>
+        <type>Community Center</type>
+    </row>
+</facility>

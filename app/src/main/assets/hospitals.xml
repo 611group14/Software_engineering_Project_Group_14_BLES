@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>1427 PRINCE RD</address>
+        <x>42.2842887</x>
+        <y>-83.06450715</y>
+        <other>Windsor Regional Hospital - Western Campus</other>
+        <type>Hospital</type>
+    </row>
+    <row>
+        <address>1995 LENS AVE</address>
+        <x>42.30036155</x>
+        <y>-82.99721348</y>
+        <other>Windsor Regional Hospital - Metropolitan Campus</other>
+        <type>Hospital</type>
+    </row>
+    <row>
+        <address>1004 OUELLETTE AVE</address>
+        <x>42.30841987</x>
+        <y>-83.03195435</y>
+        <other>Hotel Dieu Grace Hospital</other>
+        <type>Hospital</type>
+    </row>
+</facility>

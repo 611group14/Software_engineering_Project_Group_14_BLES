@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>4909 Riverside Dr. E.</address>
+        <x>42.32789296</x>
+        <y>-82.97912175</y>
+        <other>Amica mature Lifestyles Inc.</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1800 Talbot Rd</address>
+        <x>42.24350722</x>
+        <y>-83.01519641</y>
+        <other>The Village at St. Clair</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>9855 McHugh St</address>
+        <x>42.3179518</x>
+        <y>-82.92005722</y>
+        <other>The Village of Aspen Lake Seniors' Residence</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>901 Riverside Drive W</address>
+        <x>42.31698555</x>
+        <y>-83.05148405</y>
+        <other>Devonshire Seniors' Residence</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>4401 Mount Royal Dr.</address>
+        <x>42.24343576</x>
+        <y>-83.01086091</y>
+        <other>Our Lady of Mount Carmel Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1310 Grand Marais Rd. W</address>
+        <x>42.26829075</x>
+        <y>-83.02673351</y>
+        <other>Nikola Budimir Memorial Public Library</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>590 Grand Marais Rd. E</address>
+        <x>42.28008976</x>
+        <y>-83.00757831</y>
+        <other>Royal Marquis Retirement Resort</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1981 NORMAN RD</address>
+        <x>42.30944169</x>
+        <y>-82.96767191</y>
+        <other>St. Theresa Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3110 Rivard Ave</address>
+        <x>42.29408962</x>
+        <y>-82.95248522</y>
+        <other>Monseigneur W.J. Langlois School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>8465 Jerome St</address>
+        <x>42.33068245</x>
+        <y>-82.93599754</y>
+        <other>Riverside Secondary School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1211 Lauzon Rd</address>
+        <x>42.32538857</x>
+        <y>-82.9393539</y>
+        <other>Canadian Anglo Club of Windsor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>5399 Raymond Ave</address>
+        <x>42.32370059</x>
+        <y>-82.96866684</y>
+        <other>Princess Elizabeth Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3005 Temple Dr</address>
+        <x>42.286376</x>
+        <y>-82.9746063</y>
+        <other>Parkwood Gospel Temple (Gym Entrance)</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1093 Assumption St</address>
+        <x>42.32096671</x>
+        <y>-83.02233183</y>
+        <other>F.W. Begley Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1266 McDougall St</address>
+        <x>42.30574632</x>
+        <y>-83.02571048</y>
+        <other>City of Windsor - Environmental and Public Works Operation</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>401 Riverside Dr W.</address>
+        <x>42.31819522</x>
+        <y>-83.04441455</y>
+        <other>Art Gallery of Windsor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1921 Cabana Rd. W</address>
+        <x>42.2525563</x>
+        <y>-83.02389966</y>
+        <other>Gethsemane Lutheran Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>775 Capitol St</address>
+        <x>42.28341593</x>
+        <y>-83.00342724</y>
+        <other>Our Lady of Perpetual Help Catholic School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3200 County Rd 42</address>
+        <x>42.26589277</x>
+        <y>-82.96004365</y>
+        <other>YQG - Windsor Airport</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>790 HANNA ST E</address>
+        <x>42.30185346</x>
+        <y>-83.01589127</y>
+        <other>Hungarian Cultural Centre - Mindszenty Hall</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3200 Woodland Ave</address>
+        <x>42.26675269</x>
+        <y>-83.01571492</y>
+        <other>Paulin Memorial Presbyterian Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2001 Spring Garden Rd</address>
+        <x>42.26697421</x>
+        <y>-83.05372248</y>
+        <other>Southwood Community Church Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>455 Kennedy Drive W</address>
+        <x>42.2550785</x>
+        <y>-83.00489959</y>
+        <other>Roseland Golf &amp; Curling Club</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1901 EC Row Ave. East</address>
+        <x>42.28112232</x>
+        <y>-82.98593589</y>
+        <other>John A. McWilliam School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>620 Cabana Rd E</address>
+        <x>42.25946189</x>
+        <y>-82.99278642</y>
+        <other>Roseland Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1100 Northwood St</address>
+        <x>42.27812971</x>
+        <y>-83.03005695</y>
+        <other>Northwood Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2500 LaBelle St</address>
+        <x>42.26720425</x>
+        <y>-83.04037149</y>
+        <other>Bellewood Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1400 Northwood St</address>
+        <x>42.27759416</x>
+        <y>-83.03367551</y>
+        <other>Holy Names Catholic High School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1775 Totten St</address>
+        <x>42.28922755</x>
+        <y>-83.04547609</y>
+        <other>Ecole secondaire Michel-Gratton</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1213 E.C. ROW AVE. E.</address>
+        <x>42.28021403</x>
+        <y>-82.99318714</y>
+        <other>St. Christopher Catholic Elementary School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2555 Pulford St</address>
+        <x>42.25778067</x>
+        <y>-83.03543084</y>
+        <other>South Windsor Recreation Complex</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3850 Locke St</address>
+        <x>42.25717086</x>
+        <y>-82.98357895</y>
+        <other>First Lutheran Christian Academy</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>925 Cousineau Rd</address>
+        <x>42.24227777</x>
+        <y>-83.00704933</y>
+        <other>Academie Ste Cecile International School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>4000 Ducharme St</address>
+        <x>42.25207057</x>
+        <y>-82.97228018</y>
+        <other>Talbot Trail Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>811 Dougall Ave</address>
+        <x>42.31044954</x>
+        <y>-83.03875314</y>
+        <other>Dougall Ave Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>405 VICTORIA AVE</address>
+        <x>42.31542775</x>
+        <y>-83.04072117</y>
+        <other>St. Andrew's Presbyterian Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>401 SUNSET AVE</address>
+        <x>42.30446013</x>
+        <y>-83.06796134</y>
+        <other>Vanier Hall - U of Windsor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1385 UNIVERSITY AVE W</address>
+        <x>42.31263156</x>
+        <y>-83.05493782</y>
+        <other>Church of the Ascension</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3277 SANDWICH ST</address>
+        <x>42.30017383</x>
+        <y>-83.07632026</y>
+        <other>Mackenzie Hall Cultural Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3325 COLLEGE AVE</address>
+        <x>42.29588285</x>
+        <y>-83.07010231</y>
+        <other>College Ave Community Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1821 WYANDOTTE ST W</address>
+        <x>42.30640411</x>
+        <y>-83.05731771</y>
+        <other>Campbell Baptist Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1601 ST JAMES ST</address>
+        <x>42.28354248</x>
+        <y>-83.06131857</y>
+        <other>St. James School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1075 YPRES AVE</address>
+        <x>42.29244051</x>
+        <y>-83.00383897</y>
+        <other>Optimist Community Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1340 TECUMSEH RD E</address>
+        <x>42.30046918</x>
+        <y>-83.00562076</y>
+        <other>Scottish Club of Windsor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>750 ERIE ST E</address>
+        <x>42.31296563</x>
+        <y>-83.02372763</y>
+        <other>St. Angela Merici Church Hall</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>903 Mercer St</address>
+        <x>42.31218751</x>
+        <y>-83.0282348</y>
+        <other>City of Windsor - Corporate Services Department</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1140 Monmouth Ave</address>
+        <x>42.31661941</x>
+        <y>-83.00475862</y>
+        <other>St. Anne's French Immersion School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>400 WYANDOTTE ST E</address>
+        <x>42.31667263</x>
+        <y>-83.0311146</y>
+        <other>Windsor Water World</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1899 Niagara Ave</address>
+        <x>42.31817041</x>
+        <y>-83.01095404</y>
+        <other>Willistead Coach House</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>4130 FRANKLIN ST</address>
+        <x>42.32125179</x>
+        <y>-82.98404464</y>
+        <other>Our Lady of Lourdes School (St. Michael抯 Alternate Catholic High School)</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1947 Meldrum Rd</address>
+        <x>42.30469104</x>
+        <y>-82.98409274</y>
+        <other>Most Precious Blood Catholic Roman Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>5400 CORONATION AVE</address>
+        <x>42.31360758</x>
+        <y>-82.96222242</y>
+        <other>Coronation Public School (Gym)</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2418 Central Ave</address>
+        <x>42.30172455</x>
+        <y>-82.97775597</y>
+        <other>Club Alouette</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>5350 HAIG AVE</address>
+        <x>42.3002407</x>
+        <y>-82.95480178</y>
+        <other>Windsor Seventh Day Adventist Church (Advent Hall)</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3205 Forest Glade Dr</address>
+        <x>42.30339686</x>
+        <y>-82.91535022</y>
+        <other>Forest Glade Arena</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>7025 Enterprise Way</address>
+        <x>42.30913397</x>
+        <y>-82.94001795</y>
+        <other>Community Living Windsor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>9485 Esplanade Dr</address>
+        <x>42.31090035</x>
+        <y>-82.92313264</y>
+        <other>Forest Glade School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>8405 Cedarview St</address>
+        <x>42.33708712</x>
+        <y>-82.93995576</y>
+        <other>St. John Vianney Catholic School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>9550 Riverside Dr E</address>
+        <x>42.33967088</x>
+        <y>-82.92908502</y>
+        <other>Lilly Kazilly's Crab Shack and Grill</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>10835 Riverside Drive E</address>
+        <x>42.33454014</x>
+        <y>-82.91321039</y>
+        <other>Riverside Sportsmen Club</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>8800 Menard St.</address>
+        <x>42.33616782</x>
+        <y>-82.93450651</y>
+        <other>Hetherington Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>6865 Ontario St</address>
+        <x>42.32888555</x>
+        <y>-82.95333467</y>
+        <other>Riverside Baseball Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>5145 Wyandotte St E</address>
+        <x>42.32702774</x>
+        <y>-82.97462206</y>
+        <other>St. Augustine of Canterbury Anglican Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>8787 McHugh St</address>
+        <x>42.31927228</x>
+        <y>-82.92789133</y>
+        <other>WFCU Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2940 Forest Glade Drive</address>
+        <x>42.3098075</x>
+        <y>-82.9147004</y>
+        <other>Our Lady of Atonement Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1100 Huron Church Rd</address>
+        <x>42.29461991</x>
+        <y>-83.06151309</y>
+        <other>Assumption College Catholic High School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1953 Cabana West</address>
+        <x>42.25214195</x>
+        <y>-83.02499559</y>
+        <other>Kensington Court Retirement Residence</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1881 Cabana Road West</address>
+        <x>42.25232948</x>
+        <y>-83.02282868</y>
+        <other>Huron Lodge Home For Seniors</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2990 - B Riverside Dr. W.</address>
+        <x>42.3077337</x>
+        <y>-83.07337461</y>
+        <other>Chateau Park Nursing Home</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1453 Prince Road</address>
+        <x>42.28270168</x>
+        <y>-83.06570007</y>
+        <other>Doctor Y. Emara Centre for Healthy Living</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>539 Bruce Ave</address>
+        <x>42.31296091</x>
+        <y>-83.04322521</y>
+        <other>Bruce Villa</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>350 Dougall Ave</address>
+        <x>42.31667232</x>
+        <y>-83.04179494</y>
+        <other>Berkshire Care Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>567 Victoria Ave</address>
+        <x>42.31370236</x>
+        <y>-83.03937947</y>
+        <other>Regency Park Long Term Care Home</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>759 Victoria Ave</address>
+        <x>42.31164119</x>
+        <y>-83.03803918</y>
+        <other>Victoria Manor Retirement Home</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>255 Riverside Dr. E.</address>
+        <x>42.32007025</x>
+        <y>-83.03645061</y>
+        <other>Raymond Desmarais Manor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>920 Ouellette Ave</address>
+        <x>42.31057898</x>
+        <y>-83.03390582</y>
+        <other>Ouellette Manor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1280 Ouellette Avenue</address>
+        <x>42.30450024</x>
+        <y>-83.02999512</y>
+        <other>Iris House</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2335 DOUGALL AVE</address>
+        <x>42.29111866</x>
+        <y>-83.02731841</y>
+        <other>Brentwood Recovery Home</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>580 Devonshire Road</address>
+        <x>42.32341344</x>
+        <y>-83.01188804</y>
+        <other>Willistead Inn</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>511 Devonshire Road</address>
+        <x>42.32342614</x>
+        <y>-83.01273362</y>
+        <other>Walkerville Rest Home</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1035 ELLIS ST E</address>
+        <x>42.30666994</x>
+        <y>-83.01405377</y>
+        <other>Holy Trinity Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1758-1768 Marentette Ave</address>
+        <x>42.29931087</x>
+        <y>-83.01369494</y>
+        <other>Marentette Rest Home</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1168 DROUILLARD RD</address>
+        <x>42.31901803</x>
+        <y>-82.99799204</y>
+        <other>Gino A. Marcus Community Complex</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3387 Riverside Dr. East</address>
+        <x>42.32631261</x>
+        <y>-82.99685216</y>
+        <other>Lifetimes on Riverside (formerly The GrandView)</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>230 Strabane Ave</address>
+        <x>42.32648547</x>
+        <y>-82.99505909</y>
+        <other>Lions Manor</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>4270 ALICE ST</address>
+        <x>42.31379948</x>
+        <y>-82.97810663</y>
+        <other>Constable John Atkinson Memorial Community Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>5065 Riverside Dr. E.</address>
+        <x>42.32895595</x>
+        <y>-82.977622</y>
+        <other>Sunrise Assisted Living</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2400 Banwell Rd</address>
+        <x>42.31651664</x>
+        <y>-82.90117517</y>
+        <other>Banwell Community Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>11550 McNorton St</address>
+        <x>42.31810749</x>
+        <y>-82.8990066</y>
+        <other>Heron Terrace Long Term Care Community</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>10715 Eastcourt Dr</address>
+        <x>42.30970529</x>
+        <y>-82.90940576</y>
+        <other>L.A. Desmarais School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3000 Banwell Rd</address>
+        <x>42.31092801</x>
+        <y>-82.89991166</y>
+        <other>Banwell Gardens Long Term Care Residence</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>5259 Tecumseh Rd</address>
+        <x>42.30840796</x>
+        <y>-82.96094273</y>
+        <other>Windsor Croatian Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2455 Rivard AVE</address>
+        <x>42.30706865</x>
+        <y>-82.9583918</y>
+        <other>Fontainebleau Towers</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3181 Meadowbrook Lane</address>
+        <x>42.29898825</x>
+        <y>-82.92792543</y>
+        <other>Riverside Place Long Term Care Home</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1800 North Service Road</address>
+        <x>42.28468151</x>
+        <y>-82.98789755</y>
+        <other>Fogolar Furlan Club</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1750 North Service Road</address>
+        <x>42.28418081</x>
+        <y>-82.98972837</y>
+        <other>Oak Park Terrace Retirement Residence</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>1255 North Talbot Rd.</address>
+        <x>42.24135385</x>
+        <y>-82.97738121</y>
+        <other>Extendicare Southwood Lakes - Long Term Care Centre</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>2425 Clover Ave</address>
+        <x>42.31749038</x>
+        <y>-82.91218597</y>
+        <other>St. Joseph's Catholic High School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>6320 Raymond Ave</address>
+        <x>42.32641418</x>
+        <y>-82.95955945</y>
+        <other>Dr David Suzuki Public School</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>3340 Sandwich St</address>
+        <x>42.29894847</x>
+        <y>-83.07807648</y>
+        <other>Bedford United Church</other>
+        <type>Voting Station</type>
+    </row>
+    <row>
+        <address>777 Tecumseh Rd. W</address>
+        <x>42.29358972</x>
+        <y>-83.03446552</y>
+        <other>Loyal Order of Moose Lodge No. 1499</other>
+        <type>Voting Station</type>
+    </row>
+</facility>

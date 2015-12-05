@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>Between Dandurand and South Cameron Blvd (Undeveloped)</address>
+        <x>42.2837570895</x>
+        <y>-83.0281702897</y>
+        <other>VIRGINIA PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Martinique Dr.</address>
+        <x>42.3339351123999</x>
+        <y>-82.9240927883</y>
+        <other>MARTINIQUE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Morningstar Ave.</address>
+        <x>42.324812837</x>
+        <y>-82.9123383140999</y>
+        <other>MORNINGSTAR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E.</address>
+        <x>42.3336774498</x>
+        <y>-82.9014650535</y>
+        <other>GANATCHIO TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>6755 Wyandotte St. E.</address>
+        <x>42.3294018782999</x>
+        <y>-82.9550108856</y>
+        <other>RIVERSIDE BASEBALL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>8787 McHugh St.</address>
+        <x>42.3194782562</x>
+        <y>-82.9274788655999</y>
+        <other>WFCU</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Southwood Lakes and North Talbot</address>
+        <x>42.2452683926</x>
+        <y>-82.9922886774999</y>
+        <other>SOUTHWOOD LAKES TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Pleasant Place and Pillette</address>
+        <x>42.3274228667999</x>
+        <y>-82.9804936282999</y>
+        <other>REAUME OVERFLOW PARKING</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Ganatchio South Extension</address>
+        <x>42.3364420977</x>
+        <y>-82.9217604747999</y>
+        <other>LITTLE RIVER CORRIDOR 2</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Huron Church between Dorchester and Prince</address>
+        <x>42.2868502286</x>
+        <y>-83.0581343765999</y>
+        <other>HURON CHURCH GREEN BELT 2</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Huron Church between Melbourne and Millen</address>
+        <x>42.2945106569999</x>
+        <y>-83.0628465859</y>
+        <other>HURON CHURCH GREEN BELT 1</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Grand Marais from Howard to Walker Rd.</address>
+        <x>42.2849316064</x>
+        <y>-82.9935475492</y>
+        <other>GRAND MARAIS RD DRAIN TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Grand Marais from Howard to Walker Rd.</address>
+        <x>42.2825464165999</x>
+        <y>-83.0003636184</y>
+        <other>GRAND MARAIS RD DRAIN TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Grand Marais from Howard to Walker Rd.</address>
+        <x>42.2808689841</x>
+        <y>-83.0041495285999</y>
+        <other>GRAND MARAIS RD DRAIN TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1200 Drouillard Rd.</address>
+        <x>42.3184501032</x>
+        <y>-82.9978475883</y>
+        <other>GINO A MARCUS PARKETTE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1168 Drouillard Rd.</address>
+        <x>42.3190488151999</x>
+        <y>-82.9980021515</y>
+        <other>GINO A. MARCUS</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Firgrove Dr.</address>
+        <x>42.3204866111</x>
+        <y>-82.9160053795</y>
+        <other>FIRGROVE MEDIAN</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Hawthorne Dr. and Sycamore Dr. (north end of Little River Golf Course)</address>
+        <x>42.3087763429999</x>
+        <y>-82.9309512470999</y>
+        <other>HAWTHORNE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Aylmer and Riverside Dr.</address>
+        <x>42.32198614</x>
+        <y>-83.0309842603</y>
+        <other>AYLMER REST STATION</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Wyandotte and St. Rose Ave.</address>
+        <x>42.3304960940999</x>
+        <y>-82.9558053077</y>
+        <other>ST. ROSE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. and Ouellette Ave</address>
+        <x>42.3199439217</x>
+        <y>-83.0402122698999</y>
+        <other>PIAZZA UDINE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Central and Temple Dr.</address>
+        <x>42.2868729798999</x>
+        <y>-82.9722538539</y>
+        <other>PARKWOOD WOODLOT</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Louis Ave. to Elsmere Ave.</address>
+        <x>42.2953400522999</x>
+        <y>-83.0117893814</y>
+        <other>LENS AVE. PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>University Ave and City Hall Square</address>
+        <x>42.3186489946999</x>
+        <y>-83.0361609089</y>
+        <other>CHARLES CLARK SQUARE ESPLANADE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Ypres St. between Francois and Arthur Rd.</address>
+        <x>42.3043990601</x>
+        <y>-82.9685057240999</y>
+        <other>YPRES PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Southwood Lakes Blvd.</address>
+        <x>42.2363908033999</x>
+        <y>-82.98785888</y>
+        <other>WOLFE LAKE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Seymour Blvd.</address>
+        <x>42.2690803341</x>
+        <y>-82.9794471856999</y>
+        <other>WALKER HOMESITE BIKEPATH</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>701 Edinborough St.</address>
+        <x>42.2851781504</x>
+        <y>-83.0045272775</y>
+        <other>REMINGTON DOG  PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>8730 Riverside Dr E.</address>
+        <x>42.3426143977999</x>
+        <y>-82.9380082244999</y>
+        <other>PECHE ISLAND LANDING</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address> 1730 Olive rd. (Alice and Olive)</address>
+        <x>42.3144688033</x>
+        <y>-82.9708492932</y>
+        <other>KINSMEN COMMUNITY PARK (NORMAN PARK)</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Remington Park to to Southdale Park</address>
+        <x>42.2867866604999</x>
+        <y>-83.0006652409</y>
+        <other>LANGLOIS CRT LINEAR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Remington Park to to Southdale Park</address>
+        <x>42.2888953142999</x>
+        <y>-82.99579536</y>
+        <other>LANGLOIS CRT LINEAR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Jefferson Blvd. south of Rose St.</address>
+        <x>42.3056863512999</x>
+        <y>-82.9493340958999</y>
+        <other>JEFFERSON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>125 Tecumseh Rd. E</address>
+        <x>42.2935346379999</x>
+        <y>-83.0213029017999</y>
+        <other>JACKSON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E.</address>
+        <x>42.3385044113</x>
+        <y>-82.9216936668999</y>
+        <other>GANATCHIO TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E.</address>
+        <x>42.3387164576</x>
+        <y>-82.9305009229999</y>
+        <other>GANATCHIO TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E.</address>
+        <x>42.3357654626</x>
+        <y>-82.9122694649999</y>
+        <other>GANATCHIO TRAIL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Esdras Ave. North of South National St.</address>
+        <x>42.320420097</x>
+        <y>-82.9614132221</y>
+        <other>ESDRAS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Devonshire Crt. and Devonshire Rd.</address>
+        <x>42.3129718841</x>
+        <y>-83.0055909191</y>
+        <other>DEVONSHIRE COURT</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Devonshire Crt. and Devonshire Rd.</address>
+        <x>42.3135637808999</x>
+        <y>-83.0056544053999</y>
+        <other>DEVONSHIRE COURT</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Devonshire Crt. and Devonshire Rd.</address>
+        <x>42.3133798647999</x>
+        <y>-83.0061704720999</y>
+        <other>DEVONSHIRE COURT</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>End of Compton Crt.</address>
+        <x>42.2691212235</x>
+        <y>-83.0032459358999</y>
+        <other>COMPTON COURT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Chatham St. E. (west of Goyeau St.)</address>
+        <x>42.3187015928999</x>
+        <y>-83.0385295409</y>
+        <other>CHATHAM ST PARK PARKETTE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>290 Drouillard Rd.</address>
+        <x>42.3247207356</x>
+        <y>-83.0016791036999</y>
+        <other>CADILLAC ST PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Broadway St., West of Ojibway Parkway</address>
+        <x>42.2718616427999</x>
+        <y>-83.0859336399999</y>
+        <other>BROADWAY DOG  PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>North and South sides of Riverside Drive near the Ambassador Bridge</address>
+        <x>42.3086571778</x>
+        <y>-83.0706964584999</y>
+        <other>ASSUMPTION PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>400 Broadhead St.</address>
+        <x>42.3127221072</x>
+        <y>-83.0276629062</y>
+        <other>ALTON C. PARKER PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>4270 Alice Rd.</address>
+        <x>42.3137913089</x>
+        <y>-82.9781020947</y>
+        <other>A.K.O. PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Corner of Adstoll and Pillette Ave</address>
+        <x>42.3034316086</x>
+        <y>-82.9645154624</y>
+        <other>ADSTOLL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Wyandotte St. W. between McEwan and McKay ave.</address>
+        <x>42.306815702</x>
+        <y>-83.0531587586</y>
+        <other>WILSON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1899 Niagara St.</address>
+        <x>42.3176581051</x>
+        <y>-83.0098570907999</y>
+        <other>WILLISTEAD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>3950 Wildwood Dr.</address>
+        <x>42.3049021637</x>
+        <y>-82.9019296975999</y>
+        <other>WILDWOOD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>397 Erie St. E.</address>
+        <x>42.3099100182</x>
+        <y>-83.0280408465</y>
+        <other>WIGLE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Corner of Drouillard Rd. and Whelpton St.</address>
+        <x>42.3214949672999</x>
+        <y>-83.0004738624</y>
+        <other>WHELPTON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Reginald St. between Central Ave. and Wescott Rd.</address>
+        <x>42.3119595267</x>
+        <y>-82.9837307198999</y>
+        <other>WESTCOTT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Wellington Ave. just south of Universtiy Ave. W.</address>
+        <x>42.3127813405</x>
+        <y>-83.0523648835</y>
+        <other>WELLINGTON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Kildare and Wyandotte</address>
+        <x>42.3224328049999</x>
+        <y>-83.0133559378</y>
+        <other>JUBILEE PARK (WALKERVILLE)</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1900 Seymour Blvd.</address>
+        <x>42.2781008290999</x>
+        <y>-82.9840916102999</y>
+        <other>WALKER HOMESITES PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. W. between Bruce Ave. and Church St.</address>
+        <x>42.318028015</x>
+        <y>-83.045437127</y>
+        <other>VISION CORRIDOR</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>4305 Longfellow Dr.</address>
+        <x>42.2444347054</x>
+        <y>-83.0093812098999</y>
+        <other>VETERAN'S MEMORIAL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>University Ave. E. between Langlois Ave. and Pierre Ave.</address>
+        <x>42.3218480732</x>
+        <y>-83.0230865869999</y>
+        <other>UNIVERSITY AVE. PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Ontario St. and Central Ave.</address>
+        <x>42.3205735964</x>
+        <y>-82.9897932999</y>
+        <other>UNITY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Parkdale Pl. and Byng Rd.</address>
+        <x>42.2872412242999</x>
+        <y>-82.9893017189999</y>
+        <other>UDINE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Twin Oaks Dr.</address>
+        <x>42.2913796774999</x>
+        <y>-82.9171948167</y>
+        <other>TWIN OAKS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Tranby Ave. and Parkview Ave.</address>
+        <x>42.3194952947999</x>
+        <y>-82.9464103366999</y>
+        <other>TRANBY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Rivard Ave. between Rivard Ave. and Armstrong</address>
+        <x>42.3012215146</x>
+        <y>-82.9549199636999</y>
+        <other>THURSTON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>End of Edgar St.</address>
+        <x>42.3219517057999</x>
+        <y>-82.9674563954999</y>
+        <other>THOMPSON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>End of Hawthorne Dr. and Hawthorne Cres</address>
+        <x>42.31098412</x>
+        <y>-82.9271800445999</y>
+        <other>TEEDIE HAWTHORNE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Adjacent to the Ojibway Prairie Provincial Nature Reserve on the north side of Titcombe bike path.</address>
+        <x>42.2639237257999</x>
+        <y>-83.0663807332999</y>
+        <other>TALL GRASS PRAIRIE HERITAGE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1700 Totten St.</address>
+        <x>42.2907668029</x>
+        <y>-83.0465165739</y>
+        <other>SUPERIOR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. W. and Campbell Ave.</address>
+        <x>42.3137214459</x>
+        <y>-83.0608720600999</y>
+        <other>STRAITH PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>10630 Riverside Dr. E.</address>
+        <x>42.3372686149999</x>
+        <y>-82.9160729557</y>
+        <other>STOP 26</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Southwood Lakes Blvd. and North Talbot Rd.</address>
+        <x>42.2424359611</x>
+        <y>-82.9818180421</y>
+        <other>STONEYBROOK PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Seneca St. and Kildare Rd.</address>
+        <x>42.3048296563</x>
+        <y>-83.0031199162999</y>
+        <other>STODGELL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Eastcourt Dr. and Stillmeadow Rd.</address>
+        <x>42.3094177074</x>
+        <y>-82.9109754472</y>
+        <other>STILLMEADOW PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E. just west of St. Rose Ave.</address>
+        <x>42.3331063911999</x>
+        <y>-82.9558958946</y>
+        <other>ST. ROSE BEACH PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>7730 Riverside Dr. E.</address>
+        <x>42.3384642887999</x>
+        <y>-82.9500106049</y>
+        <other>ST. PAUL PUMPING STATION PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>St. Paul Ave. between Mount Olive Grove and St. Rose Ave.</address>
+        <x>42.3295746659999</x>
+        <y>-82.9427336839</y>
+        <other>ST. PAUL GROVE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Springhollow Dr. and Luxury Ave.</address>
+        <x>42.3150864986</x>
+        <y>-82.9068459828999</y>
+        <other>SPRINGHOLLOW PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>South of E.C. Row Expressway and west of Huron Church Rd.</address>
+        <x>42.2566657737</x>
+        <y>-83.0493685346999</y>
+        <other>SPRING GARDEN ANSI</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Southdale Dr. and Bramley Cres.</address>
+        <x>42.2898347674</x>
+        <y>-82.9944243861999</y>
+        <other>SOUTHDALE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Tilston Dr. between Rankin and Askin Ave.</address>
+        <x>42.2943301151</x>
+        <y>-83.0536805126999</y>
+        <other>SOUTH TILSTON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>End of Rendezvous Crt.</address>
+        <x>42.3321498091999</x>
+        <y>-82.8962801306</y>
+        <other>SOUTH RENDEZVOUS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Merrit Dr. between Rankin and Askin Ave.</address>
+        <x>42.2987271352999</x>
+        <y>-83.0565245349999</y>
+        <other>SOUTH MERRIT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Kenora St. and Mark Ave.</address>
+        <x>42.2806379732</x>
+        <y>-83.0423145629</y>
+        <other>SOUTH CAMERON WOODLOT</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Shinglecreek Crt.</address>
+        <x>42.2680629529</x>
+        <y>-82.9831836193999</y>
+        <other>SHINGLECREEK PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Colbourne Dr.</address>
+        <x>42.2907945298</x>
+        <y>-82.9536652169</y>
+        <other>SHAWNEE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E. , east of Flora Ave.</address>
+        <x>42.3393417519</x>
+        <y>-82.9271620070999</y>
+        <other>SHANFIELD SHORES</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Between Fazio Dr. and Huron Church Rd. ( access from Via Vita St.)</address>
+        <x>42.2593204726999</x>
+        <y>-83.0429884712</y>
+        <other>SEVEN SISTERS PARKLAND</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Wildwood Dr.</address>
+        <x>42.2995492579999</x>
+        <y>-82.9108802144999</y>
+        <other>SENECA PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Goyeau St. and University Ave.</address>
+        <x>42.3177229563</x>
+        <y>-83.0363375140999</y>
+        <other>SENATOR CROLL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>10300 Riverside Dr. E.</address>
+        <x>42.3387069702</x>
+        <y>-82.9195312014</y>
+        <other>SANDPOINT BEACH / PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Roseville Garden Dr.</address>
+        <x>42.3070552403999</x>
+        <y>-82.9450192051999</y>
+        <other>ROSEVILLE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Morand St. and Locke St.</address>
+        <x>42.2567775706</x>
+        <y>-82.9853178215</y>
+        <other>ROSELAND PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>2747 Robert Rd. (Robert Rd. and Plymouth Dr.)</address>
+        <x>42.2967563127999</x>
+        <y>-82.9653458963999</y>
+        <other>ROBERT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Part of Little River Corridor Parkland</address>
+        <x>42.3278754968999</x>
+        <y>-82.9260083645999</y>
+        <other>RIVERSIDE KIWANIS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverdale and Little River Rd.</address>
+        <x>42.3278406259</x>
+        <y>-82.9295492685999</y>
+        <other>RIVERDALE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>701 Edinborough St.</address>
+        <x>42.2858108340999</x>
+        <y>-83.0047387453</y>
+        <other>REMINGTON BOOSTER PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>4714 Riverside Dr. E.</address>
+        <x>42.3290067861</x>
+        <y>-82.9807814849999</y>
+        <other>REAUME PARK - COVENTRY GARDENS</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1390 Homedale Blvd.</address>
+        <x>42.3223575885999</x>
+        <y>-82.9533249195</y>
+        <other>REALTOR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>North of West Grand Blvd. between Bruce Ave. and Woodland Ave.</address>
+        <x>42.2718999268</x>
+        <y>-83.0178468049</y>
+        <other>RADISSON BIKEWAY PARKLAND</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Lassaline Ave. between Ford Blvd. and Ferndale Ave.</address>
+        <x>42.3154345023</x>
+        <y>-82.9630257684</y>
+        <other>PYKES PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>End of Milloy St. east of Norman Rd.</address>
+        <x>42.3129918039999</x>
+        <y>-82.9678751402999</y>
+        <other>POLONIA PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Island - accessible only by boat</address>
+        <x>42.3460578325</x>
+        <y>-82.9265872504</y>
+        <other>PECHE ISLAND</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Holburn St. and Maguire St.</address>
+        <x>42.2611025491</x>
+        <y>-82.9867746999999</y>
+        <other>PATRICK MAGUIRE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Sandwich St. and Detroit St.</address>
+        <x>42.3051445990999</x>
+        <y>-83.0736816078999</y>
+        <other>PATERSON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Partington Ave. south of E.C. Row Expressway</address>
+        <x>42.2703457992</x>
+        <y>-83.0363539157</y>
+        <other>PARTINGTON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Parent Ave. and Vimy Ave.</address>
+        <x>42.2947752309</x>
+        <y>-83.0079151425999</y>
+        <other>PARENT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>11518 Palmetto St.</address>
+        <x>42.3099794768</x>
+        <y>-82.8986307946999</y>
+        <other>PALMETTO PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1075 Ypres Blvd.</address>
+        <x>42.2919571170999</x>
+        <y>-83.0020939844</y>
+        <other>OPTIMIST MEMORIAL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>5200 Matchette Rd.</address>
+        <x>42.2659213928999</x>
+        <y>-83.0790397985999</y>
+        <other>OJIBWAY PRAIRIE PROVINCIAL NATURE RESERVE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>2555 Pulford St.</address>
+        <x>42.2562159</x>
+        <y>-83.0335560134</y>
+        <other>OAKWOOD PARKLAND</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Elm Ave. between Giles Blvd. W. and Montrose St.</address>
+        <x>42.3003825390999</x>
+        <y>-83.0427196769999</y>
+        <other>ELM STREET PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Tilston Dr. between Rankin and Askin Ave.</address>
+        <x>42.2965170769999</x>
+        <y>-83.0556784972999</y>
+        <other>NORTH TILSTON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Old West Ave and Highnoon Dr.</address>
+        <x>42.2430725506999</x>
+        <y>-82.9778945628</y>
+        <other>NORTH TALBOT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Merrit Dr. between Rankin and Askin Ave.</address>
+        <x>42.3000011036</x>
+        <y>-83.0579267381999</y>
+        <other>NORTH MERRITT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1201 Church St.</address>
+        <x>42.3030215344</x>
+        <y>-83.0348957373</y>
+        <other>MITCHELL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Russell St. and Mill St.</address>
+        <x>42.3032318576999</x>
+        <y>-83.0772781704</y>
+        <other>MILL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Prince Rd.</address>
+        <x>42.2851793494999</x>
+        <y>-83.073147512</y>
+        <other>MIC MAC PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Meadowbrook St.</address>
+        <x>42.3052168616</x>
+        <y>-82.932201706</y>
+        <other>MEADOWBROOK PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Sandwich St.</address>
+        <x>42.3065428072999</x>
+        <y>-83.0749194485999</y>
+        <other>MCKEE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>9655 McHugh St.</address>
+        <x>42.3177810472</x>
+        <y>-82.9218483885999</y>
+        <other>MCHUGH PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>3971 Ypres Ave.</address>
+        <x>42.3016647155999</x>
+        <y>-82.9746676381</y>
+        <other>MCDONALD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Chandler Rd. between Somme and Julien Ave.</address>
+        <x>42.296883405</x>
+        <y>-82.9815179634999</y>
+        <other>MAYFAIR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>3980 Malden Rd.</address>
+        <x>42.2807119367</x>
+        <y>-83.0600660798999</y>
+        <other>MAURICE BELANGER PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Rodfam Dr.  South of Cousineau Rd.</address>
+        <x>42.2403096038</x>
+        <y>-83.0031961197999</y>
+        <other>MATTHEW RODZIK PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>3675 Matchette Rd. Matchette Rd and Tecumseh Rd. W.</address>
+        <x>42.2883546118999</x>
+        <y>-83.0656087968999</y>
+        <other>MATCHETTE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>West Grande Blvd. between Glenwood Ave. and Mark Ave.</address>
+        <x>42.2648832360999</x>
+        <y>-83.0285034829</y>
+        <other>MARK PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Daytona Ave. and Marguriet St.</address>
+        <x>42.2495644839999</x>
+        <y>-83.0321918772</y>
+        <other>MARGURIET PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Maple Leaf Cre. and Devonwood Ave.</address>
+        <x>42.2597380094999</x>
+        <y>-82.9762929542</y>
+        <other>MAPLE LEAF PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>3277 Sandwich St.</address>
+        <x>42.3004169016</x>
+        <y>-83.0760445514</y>
+        <other>MACKENZIE HALL</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>McHugh St.</address>
+        <x>42.3265436368999</x>
+        <y>-82.9237791176999</y>
+        <other>LITTLE RIVER CORRIDOR 1</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Little River Blvd. between Clover and Chateau Ave.</address>
+        <x>42.3246182482999</x>
+        <y>-82.9144918739</y>
+        <other>LITTLE RIVER BLVD</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Little River Rd. and Little River Acres Dr.</address>
+        <x>42.3263970893999</x>
+        <y>-82.9308852512999</y>
+        <other>LITTLE RIVER ACRES PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Conservation Dr. and Labour Cres.</address>
+        <x>42.2783647157</x>
+        <y>-82.9919389927</y>
+        <other>LEAFIELD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Remington Park to to Southdale Park</address>
+        <x>42.2880957838999</x>
+        <y>-82.9974519315999</y>
+        <other>LANGLOIS CRT LINEAR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>9200 Riverside Dr. E.</address>
+        <x>42.3398446660999</x>
+        <y>-82.9298622592999</y>
+        <other>LAKEVIEW  PARK MARINA</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Banwell Rd. and Little River Blvd.</address>
+        <x>42.3236773471</x>
+        <y>-82.9048745081999</y>
+        <other>LAKESHORE WOODS</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Lake Trail Dr.</address>
+        <x>42.2407809791</x>
+        <y>-82.9877961919</y>
+        <other>LAKE TRAIL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Lake Laguna Crt.</address>
+        <x>42.2391380119999</x>
+        <y>-82.9826349933999</y>
+        <other>LAKE LAGUNA PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Southwood Lakes Blvd and Lake Laguna Crt.</address>
+        <x>42.2400957177</x>
+        <y>-82.9828554168</y>
+        <other>LAKE GRANDE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>4500 Southwood Lakes Blvd.</address>
+        <x>42.2427132689999</x>
+        <y>-82.9922518152</y>
+        <other>LAKE COMO PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Labadie Rd between Franklin and Metcalfe St.</address>
+        <x>42.3181031766999</x>
+        <y>-82.9871119767</y>
+        <other>LABADIE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Alpenrose Ave. and Southwood Lakes Blvd.</address>
+        <x>42.237878958</x>
+        <y>-82.9918554645</y>
+        <other>KOMINAR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>7689 Riverside Dr. E.</address>
+        <x>42.3371524679999</x>
+        <y>-82.9490864664</y>
+        <other>KIWANIS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Chatham St. E. and Riverside Dr. E.</address>
+        <x>42.3214722446999</x>
+        <y>-83.029096652</y>
+        <other>KINSMEN PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Howard Ave. and Allendale St.</address>
+        <x>42.3072511068999</x>
+        <y>-83.0225940913999</y>
+        <other>KENNEDY SQ. PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Howard Ave. south of Kenilworth Dr. to Whiteside Dr.</address>
+        <x>42.26684685</x>
+        <y>-83.0022720959999</y>
+        <other>KENILWORTH PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Jennifer Dr. (part of Grand Marais Parkland)</address>
+        <x>42.283531318</x>
+        <y>-82.9957723314</y>
+        <other>JENNIFER PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Grand Marais Rd. E. and Howard Ave.</address>
+        <x>42.2794348605999</x>
+        <y>-83.0070899758</y>
+        <other>HOWARD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Villaire Ave. and Raymond Ave.</address>
+        <x>42.3247233637999</x>
+        <y>-82.9664730612999</y>
+        <other>HOMESITE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Providence Cres. and Holburn St.</address>
+        <x>42.2498399296</x>
+        <y>-82.9873166281</y>
+        <other>HOLBURN PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Lake Trail Dr. south of North Talbot Rd.(off of Southwood Lakes Blvd.)</address>
+        <x>42.2398959892</x>
+        <y>-82.9858027017999</y>
+        <other>HERB GRAY NATURE RESERVE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Conservation Dr. and Hallmark to Walker Homesite Park</address>
+        <x>42.278687841</x>
+        <y>-82.9872768875</y>
+        <other>HALL FARMS LINEAR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Grove Ave. and Askin Ave.</address>
+        <x>42.2973976891999</x>
+        <y>-83.0576192879999</y>
+        <other>GROVE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>480 Riverside Dr. E. (Riverside Dr. E. between Glengarry Ave. and Marentette Ave.)</address>
+        <x>42.3222603274999</x>
+        <y>-83.0302321871999</y>
+        <other>GREAT WESTERN PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E. between Jos Janisse Ave. and Pillette Ave.</address>
+        <x>42.3278771499999</x>
+        <y>-82.9847013436999</y>
+        <other>GOOSE BAY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Goldenwood Dr. and Silverdale Dr.</address>
+        <x>42.245949451</x>
+        <y>-82.9851378418999</y>
+        <other>GOLDENWOOD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Girardot St. and Rankin Ave.</address>
+        <x>42.2978833988999</x>
+        <y>-83.0546059189999</y>
+        <other>GIRARDOT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Shepherd St. E. between Marentette Ave. and Lillian Ave.</address>
+        <x>42.3028524826</x>
+        <y>-83.0177156572</y>
+        <other>GIGNAC PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>4085 Wyandotte St. E. (corner of George and Wyandotte)</address>
+        <x>42.3236985932</x>
+        <y>-82.9863777717</y>
+        <other>GEORGE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Irvine Ave. and Marentette Ave.</address>
+        <x>42.2975507326</x>
+        <y>-83.0132760346999</y>
+        <other>GARWOOD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Florence and Riverside Dr. E.</address>
+        <x>42.3378094860999</x>
+        <y>-82.9173388862</y>
+        <other>GANATCHIO TRAIL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>400 Wyandotte St. E.</address>
+        <x>42.3166644614</x>
+        <y>-83.0311100551</y>
+        <other>FRED THOMAS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Francois Crt. south of Ontario St.</address>
+        <x>42.3224748881999</x>
+        <y>-82.9807009051999</y>
+        <other>FRANCOIS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Flora Ave. and Riverside Dr. E.</address>
+        <x>42.3381670306999</x>
+        <y>-82.9282148871999</y>
+        <other>FLORA PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Curry Ave. and South Cameron Blvd.</address>
+        <x>42.2961651215</x>
+        <y>-83.0445365069</y>
+        <other>FIELD OF DREAMS</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Factoria Rd. at the end of Milloy St.</address>
+        <x>42.3050346125</x>
+        <y>-82.994483407</y>
+        <other>FACTORIA PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Esdras Ave. North of South National St.</address>
+        <x>42.3204625063999</x>
+        <y>-82.9606377263</y>
+        <other>ESDRAS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>8776 Riverside Dr. E.</address>
+        <x>42.3424814672</x>
+        <y>-82.9371858462999</y>
+        <other>EAST RIVERVIEW PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Adelaide Ave.</address>
+        <x>42.3335419786</x>
+        <y>-82.9142926489</y>
+        <other>EAST END PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>End of Dynasty St.</address>
+        <x>42.2494346103</x>
+        <y>-82.9934461761999</y>
+        <other>DYNASTY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Calderwood Ave. west of Innerkip Cres.</address>
+        <x>42.2693344197</x>
+        <y>-82.9861615415999</y>
+        <other>DEVONSHIRE HEIGHTS</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>7911 Forest Glade Dr.</address>
+        <x>42.296383237</x>
+        <y>-82.9244505575999</y>
+        <other>DERWENT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Dawson Rd. south of Ontario St.</address>
+        <x>42.3229561112</x>
+        <y>-82.9762421144999</y>
+        <other>DAWSON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Mckay and Grove Ave.</address>
+        <x>42.3011950431</x>
+        <y>-83.0487923997</y>
+        <other>CURRY PLAYLOT</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Prince Rd. to Brock St.</address>
+        <x>42.2934532530999</x>
+        <y>-83.0733346278999</y>
+        <other>CROWLEY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Cora Greenwood Dr. east of 1187 Cora Greenwood</address>
+        <x>42.3270096536</x>
+        <y>-82.8976492112</y>
+        <other>CORA GREENWOOD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Coletta Crt. and Princess Ave.</address>
+        <x>42.2941873536</x>
+        <y>-82.9570620602</y>
+        <other>COLLETTA PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>College Ave. between South St. and Brock St.</address>
+        <x>42.2946857625999</x>
+        <y>-83.0716247886</y>
+        <other>COLLEGE COMMUNITY CENTRE PARKLAND</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Drive West, between Langlois and Moy</address>
+        <x>42.3245625042999</x>
+        <y>-83.0217136349999</y>
+        <other>CLIFFORD AND JOAN HATCH WILDFLOWER GARDEN</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Shepherd St. E. between Hall Ave. and Moy Ave.</address>
+        <x>42.30700883</x>
+        <y>-83.0096994098</y>
+        <other>CLAY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Runs from Eastlawn Ave. to Genevieve Ave.</address>
+        <x>42.3366092169</x>
+        <y>-82.9479529386999</y>
+        <other>CLAIRVIEW BIKEWAY</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>340 Riverside Dr. E.</address>
+        <x>42.3206184543999</x>
+        <y>-83.0377133511999</y>
+        <other>CIVIC TERRACE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>250 Windsor Ave.</address>
+        <x>42.3195267117</x>
+        <y>-83.0366555989999</y>
+        <other>CIVIC GREEN / ESPLANADE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>City Hall Square</address>
+        <x>42.3174550289</x>
+        <y>-83.0353131745</y>
+        <other>CITY HALL SQUARE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Franklin St. and Rossini Blvd</address>
+        <x>42.3216191336999</x>
+        <y>-82.9826377013</y>
+        <other>CHOPIN PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>3301 Woodland Ave.</address>
+        <x>42.2631118751</x>
+        <y>-83.0152035801999</y>
+        <other>CENTRAL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Drive West, between Rankin and Caron Ave.</address>
+        <x>42.3165155160999</x>
+        <y>-83.0550119018</y>
+        <other>CENTENNIAL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Caron Ave. and Elliott St. W.</address>
+        <x>42.3096343587</x>
+        <y>-83.0429802702</y>
+        <other>CARON AVE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>3950 Ducharme St.</address>
+        <x>42.2539080877999</x>
+        <y>-82.9733156503999</y>
+        <other>CAPTAIN JOHN J. WILSON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Calderwood Ave. between Irongate Cir. and Stephanie Crt.</address>
+        <x>42.2697826794</x>
+        <y>-82.9793216006</y>
+        <other>CALDERWOOD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>620 Riverside Dr. W. (bewteen Caron Ave. and Janette Ave)</address>
+        <x>42.3183882581</x>
+        <y>-83.0474380393</y>
+        <other>C.M.H. WOODS PUMPING STATION</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Esplanade Dr.West of Sherway Dr.</address>
+        <x>42.3101100268999</x>
+        <y>-82.9239718665999</y>
+        <other>BUSH PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Cedarview St. (backs onto the Ganatchio Trail)</address>
+        <x>42.3396305023999</x>
+        <y>-82.9349127272</y>
+        <other>BRUMPTON PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Church St. between Wyandotte st. W. and Elliot St. W.</address>
+        <x>42.3114349981999</x>
+        <y>-83.0407461987999</y>
+        <other>BRUCE AVE PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Brookview Cres. and Alderbrook Dr.</address>
+        <x>42.2829001671</x>
+        <y>-82.9982173398999</y>
+        <other>BROOKVIEW PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Russell St. between Brock and Mill St.</address>
+        <x>42.3011528668</x>
+        <y>-83.0787502855</y>
+        <other>BROCK PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Broadway St., West of Ojibway Parkway</address>
+        <x>42.2711779103999</x>
+        <y>-83.0853951717</y>
+        <other>BROADWAY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>1899 Grove Ave.</address>
+        <x>42.2984610285</x>
+        <y>-83.0527771966</y>
+        <other>BRIDGEVIEW PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E and Fairview Blvd</address>
+        <x>42.3364222447</x>
+        <y>-82.9516135553</y>
+        <other>BRIDGE'S BAY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Cross St. just south of Chippawa St.</address>
+        <x>42.2955528374</x>
+        <y>-83.0764257738999</y>
+        <other>BRADLEY PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Between Broadway Street and Cherry Blossom Avenue, just west of Ojibway Park</address>
+        <x>42.2674896329999</x>
+        <y>-83.0886999184999</y>
+        <other>BLACK OAK PRAIRIE HERITAGE</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>340 Riverside Dr. E. Parent and Riverside Dr.</address>
+        <x>42.3231877565999</x>
+        <y>-83.0266076790999</y>
+        <other>BERT WEEKS PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>2600 Labelle St.</address>
+        <x>42.2673081068</x>
+        <y>-83.0420991065</y>
+        <other>BELLEWOOD PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>2240 and 2244 Dandurand Ave.</address>
+        <x>42.2825149382</x>
+        <y>-83.0298288681999</y>
+        <other>BALSAMO PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Bruce Ave. and Grand Marais Ave.</address>
+        <x>42.2743107857</x>
+        <y>-83.0172475237999</y>
+        <other>AVONDALE PLAYLOT</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Kennedy Dr. and Avon Dr.</address>
+        <x>42.2515749347</x>
+        <y>-83.0191632923999</y>
+        <other>AVON CT PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>North and South sides of Riverside Drive near the Ambassador Bridge&#13;&#13;
+North and South sides of Riverside Drive near the Ambassador Br?E&#26;???</address>
+        <x>42.3112689306</x>
+        <y>-83.068098777</y>
+        <other>ASSUMPTION PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. W. at the Ambassador Bridge</address>
+        <x>42.3091205106</x>
+        <y>-83.0722519467999</y>
+        <other>AMBASSADOR PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>400 Broadhead St.</address>
+        <x>42.3128677651999</x>
+        <y>-83.0285661111</y>
+        <other>ALTON C. PARKER PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Riverside Dr. E. and Strabane Ave.</address>
+        <x>42.3272487925</x>
+        <y>-82.9924460518</y>
+        <other>ALEXANDER PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>Northway Ave. and Northwood St.</address>
+        <x>42.2724936985</x>
+        <y>-83.0451475666999</y>
+        <other>ABORIGINAL PARK</other>
+        <type>Park</type>
+    </row>
+    <row>
+        <address>4270 Alice Rd.</address>
+        <x>42.3119146331999</x>
+        <y>-82.9769340994999</y>
+        <other>A.K.O. PARK</other>
+        <type>Park</type>
+    </row>
+</facility>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address> 9200 Riverside Drive East</address>
+        <x>42.339672</x>
+        <y>-82.929457</y>
+        <other>Police Marine Unit - Lakeview Marina</other>
+        <type>Police Station</type>
+    </row>
+    <row>
+        <address> 7911 Forest Glade Drive</address>
+        <x>42.296133</x>
+        <y>-82.926227</y>
+        <other>Children's Safety Village - Office and Classroom</other>
+        <type>Police Station</type>
+    </row>
+    <row>
+        <address> 4007 Sandwich Street</address>
+        <x>42.286606</x>
+        <y>-83.083427</y>
+        <other>Armoury and Police Training Centre (Major F.A. Tilston VC)</other>
+        <type>Police Station</type>
+    </row>
+    <row>
+        <address> 3312 Sandwich St.</address>
+        <x>42.299691</x>
+        <y>-83.078008</y>
+        <other>COMMUNITY SERVICE UNIT</other>
+        <type>Police Station</type>
+    </row>
+    <row>
+        <address> 150 Goyeau Street</address>
+        <x>42.319149</x>
+        <y>-83.037351</y>
+        <other>WINDSOR POLICE HEADQUARTERS</other>
+        <type>Police Station</type>
+    </row>
+    <row>
+        <address> 2696 Jefferson Blvd.</address>
+        <x>42.304956</x>
+        <y>-82.947622</y>
+        <other>Collision Reporting Centre</other>
+        <type>Police Station</type>
+    </row>
+</facility>

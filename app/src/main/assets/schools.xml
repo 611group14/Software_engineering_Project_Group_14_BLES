@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>910 Raymo Rd</address>
+        <x>42.3247712339</x>
+        <y>-82.9752094348999</y>
+        <other>Corpus Christi Catholic Middle School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1325 CALIFORNIA AVE</address>
+        <x>42.2963396892</x>
+        <y>-83.0607398934999</y>
+        <other>Windsor Essex Catholic District School Board</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>10715 Eastcourt Dr</address>
+        <x>42.3096814709999</x>
+        <y>-82.9095425703</y>
+        <other>L.A. Desmarais Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>871 St. Rose St</address>
+        <x>42.3300828786999</x>
+        <y>-82.9542831156999</y>
+        <other>St. Rose Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1400 Roselawn Dr</address>
+        <x>42.2567984266</x>
+        <y>-83.0208557205999</y>
+        <other>St. Gabriel Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1400 Cousineau Rd</address>
+        <x>42.2431441206</x>
+        <y>-83.011927858</y>
+        <other>Our Lady of Mount Carmel Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2751 Partington Ave</address>
+        <x>42.2688736961999</x>
+        <y>-83.0350926137</y>
+        <other>Notre Dame Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1200 Grand Marais Rd W</address>
+        <x>42.2694503481</x>
+        <y>-83.0252963869999</y>
+        <other>Christ the King Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>441 Tecumseh Rd E</address>
+        <x>42.2972156861</x>
+        <y>-83.018520526</y>
+        <other>Catholic Central High School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>910 Raymo Rd</address>
+        <x>42.3249686516</x>
+        <y>-82.9755001216</y>
+        <other>F.J. Brennan Catholic High School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>465 Victoria Ave</address>
+        <x>42.3147026963</x>
+        <y>-83.0402972664</y>
+        <other>Immaculate Conception Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1100 Huron Church Rd</address>
+        <x>42.2952478624999</x>
+        <y>-83.0617167521999</y>
+        <other>Assumption College Catholic High School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1920 Grove Ave</address>
+        <x>42.2994455601999</x>
+        <y>-83.0536352814</y>
+        <other>St. John Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1601 St. James St</address>
+        <x>42.2838340539</x>
+        <y>-83.0611392225</y>
+        <other>St. James Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1982 Norman Rd</address>
+        <x>42.3097777079999</x>
+        <y>-82.9667103220999</y>
+        <other>St. Jules Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1847 Meldrum Rd</address>
+        <x>42.3065441795</x>
+        <y>-82.9853210808</y>
+        <other>St. Bernard Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1140 Monmouth Rd</address>
+        <x>42.3165497082</x>
+        <y>-83.0046492739</y>
+        <other>St. Anne Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>816 Ellis St E</address>
+        <x>42.30608009</x>
+        <y>-83.0177812632</y>
+        <other>St. Angela Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>4130 Franklin St</address>
+        <x>42.3209561599</x>
+        <y>-82.9837513867</y>
+        <other>St. Michael's Alternate Catholic High School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3145 Wildwood Dr</address>
+        <x>42.3021032846</x>
+        <y>-82.9202349445999</y>
+        <other>H.J. Lassaline Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>8405 Cedarview St</address>
+        <x>42.3370707580999</x>
+        <y>-82.9399470027999</y>
+        <other>St. John Vianney Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1400 Northwood St</address>
+        <x>42.2775778274</x>
+        <y>-83.0336667031999</y>
+        <other>Holy Names Catholic High School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>775 Capitol St</address>
+        <x>42.2833995963</x>
+        <y>-83.0034184471</y>
+        <other>Our Lady of Perpetual Help Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2425 Clover Ave</address>
+        <x>42.3161830028</x>
+        <y>-82.9127074801999</y>
+        <other>St. Joseph's Catholic High School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3110 Rivard Ave</address>
+        <x>42.2940517820999</x>
+        <y>-82.9524510930999</y>
+        <other>W.J. Langlois Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1213 E.C. Row</address>
+        <x>42.2801976925999</x>
+        <y>-82.9931783580999</y>
+        <other>St. Christopher Catholic Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>477 Detroit St</address>
+        <x>42.3028749460999</x>
+        <y>-83.0721897275</y>
+        <other>St. Michael's Adult Learining Rhodes Campus</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1275 Campbell Ave</address>
+        <x>42.2973276407999</x>
+        <y>-83.0513172681999</y>
+        <other>West Gate Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>874 Giles Blvd</address>
+        <x>42.3112270514999</x>
+        <y>-83.0198022213999</y>
+        <other>Giles Campus French Immersion Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>451 PARK AVE W</address>
+        <x>42.3147801006999</x>
+        <y>-83.0430532867</y>
+        <other>Greater Essex County District School Board</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>4000 Ducharme St</address>
+        <x>42.2518612969999</x>
+        <y>-82.9732897605999</y>
+        <other>Talbot Trail Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3640 Wells St</address>
+        <x>42.2912628293</x>
+        <y>-83.0729615239</y>
+        <other>Maryvale Adolescent and Family Services</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1453 Prince Rd, ELMS Bldg</address>
+        <x>42.2861474253</x>
+        <y>-83.0637808697999</y>
+        <other>Glengard-Osmond Bldg</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1015 Highland Ave</address>
+        <x>42.3110568492</x>
+        <y>-83.0272466006999</y>
+        <other>New Beginnings I and II</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>284 Cameron Ave</address>
+        <x>42.3136823919</x>
+        <y>-83.0544213594999</y>
+        <other>Directions(IAP), P.A.S.S. and Turning Point</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>284 Cameron Ave</address>
+        <x>42.3140606031999</x>
+        <y>-83.0546396966</y>
+        <other>Adult and Continuing Education</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>620 Cabana Rd E</address>
+        <x>42.259445563</x>
+        <y>-82.9927776374999</y>
+        <other>Roseland Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1901 E.C. Row</address>
+        <x>42.2813622651</x>
+        <y>-82.9861744178</y>
+        <other>John A. McWilliam Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1376 Victoria Ave</address>
+        <x>42.3021142137</x>
+        <y>-83.0309818036</y>
+        <other>Queen Victoria Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>811 Dougall Ave</address>
+        <x>42.3106162564999</x>
+        <y>-83.0386924087</y>
+        <other>Dougall Ave. Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>8465 Jerome St</address>
+        <x>42.3301427274999</x>
+        <y>-82.9353961628</y>
+        <other>Riverside Secondary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>6265 Roseville Garden Dr</address>
+        <x>42.3067350390999</x>
+        <y>-82.9468841844</y>
+        <other>Roseville Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1100 Northwood St</address>
+        <x>42.2781133721</x>
+        <y>-83.0300481438</y>
+        <other>Northwood Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1355 Cabana Rd W</address>
+        <x>42.2540124705</x>
+        <y>-83.0182868051</y>
+        <other>Southwood Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1601 Norfolk St</address>
+        <x>42.2625754780999</x>
+        <y>-83.0283199089</y>
+        <other>Glenwood Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>700 Norfolk St</address>
+        <x>42.2671789962</x>
+        <y>-83.0175875678</y>
+        <other>Central Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1800 Liberty St</address>
+        <x>42.2595537031999</x>
+        <y>-83.0282129916</y>
+        <other>Massey Secondary &amp; Elementary School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2500 LaBelle St</address>
+        <x>42.2671879180999</x>
+        <y>-83.040362681</y>
+        <other>Bellewood Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1225 Tecumseh Rd E</address>
+        <x>42.2994400567</x>
+        <y>-83.0061183519</y>
+        <other>John Campbell Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>245 Tecumseh Rd E</address>
+        <x>42.2955858039</x>
+        <y>-83.0207674181999</y>
+        <other>Kennedy Collegiate Institute</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1375 California Ave</address>
+        <x>42.2927989937</x>
+        <y>-83.0565811852</y>
+        <other>Westview Freedom Academy</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3557 Melbourne Rd</address>
+        <x>42.2897389692999</x>
+        <y>-83.0646155217</y>
+        <other>Marlborough Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3312 Sandwich St</address>
+        <x>42.2996783907999</x>
+        <y>-83.0778393293</y>
+        <other>General Brock Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2100 Richmond St</address>
+        <x>42.3172480209999</x>
+        <y>-83.0069878725</y>
+        <other>Walkerville Collegiate Institute</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1930 Rossini Blvd</address>
+        <x>42.3082760464</x>
+        <y>-82.9751960397999</y>
+        <other>W.F. Herman Secondary School and Elem.Tech. Centre</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>949 Giles Blvd E</address>
+        <x>42.3100772925999</x>
+        <y>-83.0174731859</y>
+        <other>Prince Edward Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>4195 Milloy St</address>
+        <x>42.3103951821</x>
+        <y>-82.9764403203</y>
+        <other>Percy P. McCallum Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>853 Chilver Rd</address>
+        <x>42.3193977318</x>
+        <y>-83.0127205056</y>
+        <other>King Edward Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2229 Chilver Rd</address>
+        <x>42.2990040497</x>
+        <y>-82.9996810625</y>
+        <other>Hugh Beaton Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1646 Alexis Rd</address>
+        <x>42.3099275452999</x>
+        <y>-82.9900337216</y>
+        <other>Gordon McGregor Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1093 Assumption St</address>
+        <x>42.3210082786999</x>
+        <y>-83.0224738175</y>
+        <other>F.W. Begley Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1648 Francois Rd</address>
+        <x>42.314814701</x>
+        <y>-82.9757492367999</y>
+        <other>David Maxwell Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>9367 Esplanade Dr</address>
+        <x>42.3100420537</x>
+        <y>-82.9251320216</y>
+        <other>Forest Glade Primary Learning Centre</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3070 Stillmeadow Rd</address>
+        <x>42.3077194683</x>
+        <y>-82.9096081719</y>
+        <other>Parkview Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>8800 Menard St</address>
+        <x>42.3361220695</x>
+        <y>-82.9346657297</y>
+        <other>Hetherington Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>9485 Esplanade Dr</address>
+        <x>42.3108839893</x>
+        <y>-82.923123887</y>
+        <other>Forest Glade Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3555 Forest Glade Dr</address>
+        <x>42.3005952078</x>
+        <y>-82.9221738338</y>
+        <other>Eastwood Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>6320 Raymond Ave</address>
+        <x>42.3263936819</x>
+        <y>-82.9592609845</y>
+        <other>Dr. David Suzuki Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>5399 Raymond Ave</address>
+        <x>42.3238188437</x>
+        <y>-82.9686689736</y>
+        <other>Princess Elizabeth Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2855 Rivard Ave</address>
+        <x>42.2985358894</x>
+        <y>-82.9537380601999</y>
+        <other>W.G. Davis Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>5400 Coronation Ave</address>
+        <x>42.3136192858</x>
+        <y>-82.96209849</y>
+        <other>Coronation Public School</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>College Ave and Huron Church Rd.</address>
+        <x>42.2975689378</x>
+        <y>-83.0651780525</y>
+        <other>INCUBATOR: Hybrid Laboratory at the Intersection of Art, Science &amp; Ecology</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>201 Riverside Dr. W.</address>
+        <x>42.3189480397999</x>
+        <y>-83.042242414</y>
+        <other>St. Clair Centre for the Arts</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2000 Talbot Rd W</address>
+        <x>42.246436154</x>
+        <y>-83.0182054543</y>
+        <other>St. Clair College</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>401 Sunset Ave</address>
+        <x>42.3068344388</x>
+        <y>-83.0663116987</y>
+        <other>University of Windsor</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>2520 Cabana Rd. W.</address>
+        <x>42.2536771866</x>
+        <y>-83.0328225604999</y>
+        <other>Ecole elementaire Windsor Sud</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1775 Totten Ave</address>
+        <x>42.2887018524999</x>
+        <y>-83.0454371047</y>
+        <other>Ecole secondaire Michel-Gratton</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1799 Ottawa St</address>
+        <x>42.3112390352</x>
+        <y>-83.0069713641999</y>
+        <other>Ecole L'Envolee</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>7515 FOREST GLADE AVE</address>
+        <x>42.2974671718</x>
+        <y>-82.9256549565999</y>
+        <other>Conseil Scolaire Catholique Providence</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>3225 California Ave</address>
+        <x>42.2597368990999</x>
+        <y>-83.0348303295999</y>
+        <other>Ecole Monseigneur Jean Noel</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>6200 Edgar St</address>
+        <x>42.3244671046999</x>
+        <y>-82.9591489796</y>
+        <other>Ecole Georges P. Vanier</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>5305 Tecumseh Rd E</address>
+        <x>42.3081645979</x>
+        <y>-82.9601002447</y>
+        <other>Ecole Sainte-Therese</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>600 North Service Rd</address>
+        <x>42.2769804097</x>
+        <y>-83.0200861141999</y>
+        <other>Ecole Secondaire E.J. Lajeunesse</other>
+        <type>School</type>
+    </row>
+    <row>
+        <address>1880 Totten St</address>
+        <x>42.2897858106</x>
+        <y>-83.0473949051</y>
+        <other>Ecole Saint-Edmond</other>
+        <type>School</type>
+    </row>
+</facility>

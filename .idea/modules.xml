@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Software_engineering_Project_Group_14_BLES.iml" filepath="$PROJECT_DIR$/Software_engineering_Project_Group_14_BLES.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_welcome/library_welcome.iml" filepath="$PROJECT_DIR$/library_welcome/library_welcome.iml" />
     </modules>
   </component>
 </project>

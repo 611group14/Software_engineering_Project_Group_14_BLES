@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>815 Goyeau St</address>
+        <x>42.3118656219999</x>
+        <y>-83.0334707361</y>
+        <other>Fire Hall #1</other>
+        <type>Fire Station</type>
+    </row>
+    <row>
+        <address>3121 Milloy St</address>
+        <x>42.3068574909</x>
+        <y>-82.9869316877999</y>
+        <other>Fire Hall #2</other>
+        <type>Fire Station</type>
+    </row>
+    <row>
+        <address>1905 Cabana Rd W</address>
+        <x>42.2531537838999</x>
+        <y>-83.0239833768</y>
+        <other>Fire Hall #5</other>
+        <type>Fire Station</type>
+    </row>
+    <row>
+        <address>2750 Ouellette Ave</address>
+        <x>42.2821369613999</x>
+        <y>-83.0156976205999</y>
+        <other>Fire Hall #3</other>
+        <type>Fire Station</type>
+    </row>
+    <row>
+        <address>2600 College Ave</address>
+        <x>42.2999231237999</x>
+        <y>-83.0628378768</y>
+        <other>Fire Hall #4</other>
+        <type>Fire Station</type>
+    </row>
+    <row>
+        <address>1380 Matthew Brady Blvd</address>
+        <x>42.3215477939</x>
+        <y>-82.9386634266</y>
+        <other>Fire Hall #7</other>
+        <type>Fire Station</type>
+    </row>
+    <row>
+        <address>Windsor Airport</address>
+        <x>42.2692392288999</x>
+        <y>-82.9662277009</y>
+        <other>Fire Hall #6</other>
+        <type>Fire Station</type>
+    </row>
+</facility>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facility>
+    <row>
+        <address>none</address>
+        <x>42.284796</x>
+        <y>-83.025585</y>
+        <other>Canadian National Railway- Van De Water Yard</other>
+        <type>Railway Station</type>
+    </row>
+    <row>
+        <address>none</address>
+        <x>42.303821</x>
+        <y>-83.04085</y>
+        <other>Canadian Pacific Railway Company - Windsor Yard</other>
+        <type>Railway Station</type>
+    </row>
+</facility>
