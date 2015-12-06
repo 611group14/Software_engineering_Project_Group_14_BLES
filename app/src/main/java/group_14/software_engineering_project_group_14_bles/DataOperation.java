@@ -135,7 +135,7 @@ public class DataOperation
         return loginstatus;
     }
 
-    public ArrayList<String> getUserInfo(Context context,String backID)
+    public ArrayList<String> getUserInfo(Context context,String backName)
     {
         ArrayList<String> userInfoList = new ArrayList<String>();
 
@@ -146,7 +146,7 @@ public class DataOperation
                 Location_ini.NewUserInfo.USER_PASS,Location_ini.NewUserInfo.User_TYPE};
 
         int i = 0;
-        Cursor CR = userDbHelper.getInformations(userDbHelper,Location_ini.NewUserInfo.TABLE_NAME,columns,"user_id=?",new String[]{backID});
+        Cursor CR = userDbHelper.getInformations(userDbHelper,Location_ini.NewUserInfo.TABLE_NAME,columns,"user_name=?",new String[]{backName});
 
         if(CR.moveToFirst())
         {
@@ -166,9 +166,45 @@ public class DataOperation
 
     }
 
-    public ArrayList<String> getRecordInfo(Context context,String backID)
+    public ArrayList<ArrayList<String>> getAllUserInfo(Context context)
     {
-        ArrayList<String> recordInfoList = new ArrayList<String>();
+        ArrayList<ArrayList<String>> userInfoList = new ArrayList<ArrayList<String>>();
+        userInfoList.add(new ArrayList<String>());
+        UserDbHelper userDbHelper;
+        userDbHelper = new UserDbHelper(context);
+
+        String[] columns = {Location_ini.NewUserInfo.USER_ID,Location_ini.NewUserInfo.USER_NAME,
+                Location_ini.NewUserInfo.USER_PASS, Location_ini.NewUserInfo.User_TYPE};
+
+        int i = 0;
+        Cursor CR = userDbHelper.getInformations(userDbHelper,Location_ini.NewUserInfo.TABLE_NAME,columns,null,null);
+
+        if(CR.moveToFirst())
+        {
+            do
+            {
+                userInfoList.get(i).add(CR.getString(0));
+                userInfoList.get(i).add(CR.getString(1));
+                userInfoList.get(i).add(CR.getString(2));
+                userInfoList.get(i).add(CR.getString(3));
+                //double coordinate_x = Double.parseDouble(CR.getString(1));
+                //double coordinate_y = Double.parseDouble(CR.getString(2));
+                userInfoList.add(new ArrayList<String>());
+                i++;
+            }while(CR.moveToNext());
+        }
+
+
+        return userInfoList;
+
+    }
+
+
+
+    public ArrayList<ArrayList<String>> getRecordInfo(Context context,String backID)
+    {
+        ArrayList<ArrayList<String>> recordInfoList = new ArrayList<ArrayList<String>>();
+        recordInfoList.add(new ArrayList<String>());
         UserDbHelper userDbHelper;
         userDbHelper = new UserDbHelper(context);
 
@@ -186,16 +222,17 @@ public class DataOperation
         {
             do
             {
-                recordInfoList.add(CR.getString(0));
-                recordInfoList.add(CR.getString(1));
-                recordInfoList.add(CR.getString(2));
-                recordInfoList.add(CR.getString(3));
-                recordInfoList.add(CR.getString(4));
-                recordInfoList.add(CR.getString(5));
-                recordInfoList.add(CR.getString(6));
-                recordInfoList.add(CR.getString(7));
-                recordInfoList.add(CR.getString(8));
-                recordInfoList.add(CR.getString(9));
+                recordInfoList.add(new ArrayList<String>());
+                recordInfoList.get(i).add(CR.getString(0));
+                recordInfoList.get(i).add(CR.getString(1));
+                recordInfoList.get(i).add(CR.getString(2));
+                recordInfoList.get(i).add(CR.getString(3));
+                recordInfoList.get(i).add(CR.getString(4));
+                recordInfoList.get(i).add(CR.getString(5));
+                recordInfoList.get(i).add(CR.getString(6));
+                recordInfoList.get(i).add(CR.getString(7));
+                recordInfoList.get(i).add(CR.getString(8));
+
                 //double coordinate_x = Double.parseDouble(CR.getString(1));
                 //double coordinate_y = Double.parseDouble(CR.getString(2));
                 i++;

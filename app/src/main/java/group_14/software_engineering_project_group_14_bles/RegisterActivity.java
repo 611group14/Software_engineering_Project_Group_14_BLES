@@ -13,6 +13,7 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Random;
 
@@ -24,11 +25,16 @@ public class RegisterActivity extends Activity {
     Button REG;
     Context context = this;
 
+
+    int registerStatus = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
+
+
 
         USER_NAME = (EditText) findViewById(R.id.reg_user);
         USER_PASS = (EditText) findViewById(R.id.reg_pass) ;
@@ -48,6 +54,9 @@ public class RegisterActivity extends Activity {
                 user_name = USER_NAME.getText().toString();
                 user_pass = USER_PASS.getText().toString();
                 con_pass = CON_PASS.getText().toString();
+                DataOperation dataOperation = new DataOperation();
+                ArrayList<ArrayList<String>> userInfo = new ArrayList<ArrayList<String>>();
+                userInfo = dataOperation.getAllUserInfo(context);
 
                 if(!(user_pass.equals(con_pass)))
                 {
@@ -55,8 +64,24 @@ public class RegisterActivity extends Activity {
                     USER_NAME.setText("");
                     USER_PASS.setText("");
                     CON_PASS.setText("");
+                    registerStatus = 1;
                 }
-                else
+
+                for (int i = 0;i < userInfo.size()-1;i++)
+                {
+                    if((user_name.equals(userInfo.get(i).get(1))))
+                    {
+                        Toast.makeText(getBaseContext(), "The same User Name existed!", Toast.LENGTH_LONG).show();
+                        USER_NAME.setText("");
+                        USER_PASS.setText("");
+                        CON_PASS.setText("");
+                        registerStatus = 1;
+                        break;
+                    }
+
+                }
+
+                if(registerStatus == 0)
                 {
                     Random r = new Random();
                     String rr = r.nextInt(99999)+"";
@@ -68,8 +93,11 @@ public class RegisterActivity extends Activity {
                     String userID = year.toString()+month.toString()+date.toString()+rr;
 
                     UserDbHelper userDbHelper = new UserDbHelper(context);
-                    userDbHelper.addUserInformations(userDbHelper,userID,user_name, user_pass,user_type);
+                    userDbHelper.addUserInformations(userDbHelper, userID, user_name, user_pass, user_type);
+                    MyApplication app = (MyApplication) getApplication();
+                    app.setValue(user_name);
                     Toast.makeText(getBaseContext(), "Registration success", Toast.LENGTH_LONG).show();
+
                     finish();
 
                 }
