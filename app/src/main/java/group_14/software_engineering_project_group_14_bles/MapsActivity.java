@@ -153,6 +153,7 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
 
             @Override
             public void onDrawerOpened(View drawerView) {
+                TextView username = (TextView) findViewById(R.id.UserName);
                 //===============================================================
                 //  MyApplication - identify whether user has login or not
                 //===============================================================
@@ -169,18 +170,24 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
                             startActivity(it);
                         }
                     });
-
+                    username.setOnClickListener(new OnClickListener() {
+                        @Override
+                        public void onClick(View v) {
+                            Intent it = new Intent(MapsActivity.this, LoginActivity.class);
+                            startActivity(it);
+                        }
+                    });
                 }
-                else{
+                else
+                {
                     ImageView imageview = (ImageView) findViewById(R.id.imageView);
                     imageview.setImageResource(R.drawable.ic_person_white_48dp);
                     //===============================================================
                     //for modifiying textview
                     //===============================================================
-                    TextView username = (TextView) findViewById(R.id.UserName);
-                    TextView businesstype = (TextView) findViewById(R.id.BusinessType);
-                    username.setText("test");
-                    businesstype.setText("test");
+                    app = (MyApplication) getApplication();
+                    username.setText(app.getValue());
+                    username.setClickable(false);
                 }
             }
         };
@@ -204,7 +211,7 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
 
         bool = new boolean[facilitiesType.size()];
 
-        for(int i =0;i<facilitiesType.size();i++){
+        for(int i = 0;i<facilitiesType.size();i++){
             bool[i] = false;
         }
 
@@ -252,9 +259,9 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
         //draw the area of Windsor and highlight it
         //==============================================================
         PolygonOptions polygons = new PolygonOptions()
-            .strokeColor(Color.RED)
-            .strokeWidth(2)
-            .fillColor(Color.HSVToColor(50, new float[]{210, 100, 100}));
+                .strokeColor(Color.RED)
+                .strokeWidth(2)
+                .fillColor(Color.HSVToColor(50, new float[]{210, 100, 100}));
 
         for (LatLng l : latlngs){
             polygons.add(l);
@@ -317,68 +324,51 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
 
             switch(type){
                 case "Fire Station":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_verified_user_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.firemen));
                     break;
                 case "School":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_library_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.congress));
                     break;
                 case "Voting Station":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_rate_review_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.administration));
                     break;
                 case "Airport":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_airport_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.airport));
                     break;
                 case "Community Center":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_convenience_store_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.communitycentre));
                     break;
                 case "Hosiptal":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_hospital_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.firstaid));
                     break;
                 case "Park":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_parking_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.flowers));
                     break;
                 case "Parking Lots Garages":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_parking_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.parking));
                     break;
                 case "Police Station":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_taxi_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.police2));
                     break;
                 case "Railway Station":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_directions_railway_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.tramway));
                     break;
                 case "Tunnel Bridge":
-                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.ic_local_movies_black_24dp));
+                    markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.tunnel));
                     break;
-
             }
 
+
         }
 
-
-
-        String record = "1";
+        ArrayList<String> backList1 = new ArrayList<String>();
         ArrayList<ArrayList<String>> backListInfo1 = new ArrayList<ArrayList<String>>();
-
-        backListInfo1 = dataOperation.getRecordInfo(context,record);
+        backList1 = dataOperation.getFacilities(context, "Fire Station");
+        backListInfo1 = dataOperation.getFacilityInfo(context,backList1);
         for(int i =0; i<backListInfo1.size()-1;i++)
         {
-            //markers.get(i).setVisible(true);
-            Toast.makeText(this,""+backListInfo1.get(i).get(0),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(1),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(2),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(3),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(4),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(5),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(6),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(7),Toast.LENGTH_LONG).show();
-            Toast.makeText(this,""+backListInfo1.get(i).get(8),Toast.LENGTH_LONG).show();
-
+            Toast.makeText(this,""+backListInfo.get(i).get(5),Toast.LENGTH_LONG).show();
         }
-        /**/
-
-
-
-
 
     }
     //==============================================================
@@ -479,20 +469,20 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
 
 //        if (poly.contains(point))
 //        {
-            // create new circle and marker
-            DraggableCircle circle = new DraggableCircle(point,mMap);
+        // create new circle and marker
+        DraggableCircle circle = new DraggableCircle(point,mMap);
 
-            //avoid the situation existing two circles on the map at the same time
-            for (DraggableCircle draggableCircle : mCircles) {
-                draggableCircle.centerMarker.remove();
-                draggableCircle.circle.remove();
+        //avoid the situation existing two circles on the map at the same time
+        for (DraggableCircle draggableCircle : mCircles) {
+            draggableCircle.centerMarker.remove();
+            draggableCircle.circle.remove();
 //              draggableCircle.radiusMarker.remove();
-            }
+        }
 
-            mCircles.clear();
-            mCircles.add(circle);
-            //animated marker added
-            Marker_bouncing.Bouncing(circle.centerMarker,mMap);
+        mCircles.clear();
+        mCircles.add(circle);
+        //animated marker added
+        Marker_bouncing.Bouncing(circle.centerMarker,mMap);
 //        }
 //        else
 //        {
@@ -614,15 +604,14 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
             //for modifiying textview
             //===============================================================
             TextView username = (TextView) findViewById(R.id.UserName);
-            TextView businesstype = (TextView) findViewById(R.id.BusinessType);
-            username.setText("userName");
-            businesstype.setText("BusinessType");
+            username.setText("Login");
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+
     //==============================================================
     // For setup dialog (need modify)
     //==============================================================
@@ -694,47 +683,5 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
         AlertDialog dialog=builder.create();
         dialog.show();
     }
-
-    //==============================================================
-    //==============================================================
-    // For snapshot testing
-    //==============================================================
-    //==============================================================
-    /**
-     * Called when the snapshot button is clicked.
-     */
-    public void onScreenshot(View view) {
-        takeSnapshot();
-    }
-
-    private void takeSnapshot() {
-        if (mMap == null) {
-            return;
-        }
-
-//        final ImageView snapshotHolder = (ImageView) findViewById(R.id.snapshot_holder);
-
-        final GoogleMap.SnapshotReadyCallback callback = new GoogleMap.SnapshotReadyCallback() {
-            @Override
-            public void onSnapshotReady(Bitmap snapshot) {
-                // Callback is called from the main thread, so we can modify the ImageView safely.
-//                snapshotHolder.setImageBitmap(snapshot);
-            }
-        };
-
-//        if (mWaitForMapLoadCheckBox.isChecked()) {
-//            mMap.setOnMapLoadedCallback(new GoogleMap.OnMapLoadedCallback() {
-//                @Override
-//                public void onMapLoaded() {
-//                    mMap.snapshot(callback);
-//                }
-//            });
-//        } else {
-//            mMap.snapshot(callback);
-//        }
-    }
-    //==============================================================
-    //==============================================================
-
 
 }
