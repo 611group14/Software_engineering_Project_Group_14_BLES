@@ -13,6 +13,7 @@ public class ScoredItemListFragment extends ListFragment {
     @Override
     public void onListItemClick(ListView l, View v, int position, long id) {
         super.onListItemClick(l, v, position, id);
-        Toast.makeText(getActivity(), String.valueOf(position), Toast.LENGTH_SHORT).show();
+        // Temporarily disable clicking actions on scored items.
+        //Toast.makeText(getActivity(), String.valueOf(position), Toast.LENGTH_SHORT).show();
     }
 }

@@ -23,6 +23,9 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.List;
 
+import group_14.software_engineering_project_group_14_bles.DataOperation;
+import group_14.software_engineering_project_group_14_bles.KeysOfExtra;
+import group_14.software_engineering_project_group_14_bles.MyApplication;
 import group_14.software_engineering_project_group_14_bles.R;
 
 /**
@@ -35,10 +38,14 @@ public class EvalRecordPickerActivity extends AppCompatActivity {
     private EvalRecordListFragment mList;
     private RecordPickerAdapter mAdapter;
 
+    private String currentUser;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_eval_record_picker);
+
+        this.currentUser = getIntent().getParcelableExtra(KeysOfExtra.EVAL_DETAILS_CURRENT_USER);
 
         this.populateList();
         mAdapter = new RecordPickerAdapter(this, LIST_LOCATIONS);
@@ -53,7 +60,7 @@ public class EvalRecordPickerActivity extends AppCompatActivity {
     }
 
     /**
-     *
+     * Set adapter
      */
     private class RecordPickerAdapter extends ArrayAdapter<EvalRecord> {
 
@@ -97,7 +104,7 @@ public class EvalRecordPickerActivity extends AppCompatActivity {
     }
 
     /**
-     *
+     * Set map location.
      * @param map
      * @param data
      */
@@ -147,9 +154,7 @@ public class EvalRecordPickerActivity extends AppCompatActivity {
 
     }
 
-    /**
-     *
-     */
+
     private AbsListView.RecyclerListener mRecycleListener = new AbsListView.RecyclerListener() {
 
         @Override
@@ -171,8 +176,27 @@ public class EvalRecordPickerActivity extends AppCompatActivity {
     private static List<EvalRecord> LIST_LOCATIONS = new ArrayList<EvalRecord>();
     private void populateList() {
         LIST_LOCATIONS.clear();
-        LIST_LOCATIONS.add(new EvalRecord("Hong Kong", new Date(), new LatLng(22.325862, 114.165532)));
-        LIST_LOCATIONS.add(new EvalRecord("London", new Date(), new LatLng(51.500208, -0.126729)));
-        LIST_LOCATIONS.add(new EvalRecord("Oslo", new Date(), new LatLng(59.910761, 10.749092)));
+
+//        LIST_LOCATIONS.add(new EvalRecord("2750 Ouellette Ave", new Date(), new LatLng(42.2821369613999, -83.0156976205999)));
+//        LIST_LOCATIONS.add(new EvalRecord("1380 Matthew Brady Blvd", new Date(), new LatLng(42.3215477939, -82.9386634266)));
+//        LIST_LOCATIONS.add(new EvalRecord("Windsor Airport", new Date(), new LatLng(42.2692392288999, -82.9662277009)));
+//        LIST_LOCATIONS.add(new EvalRecord("400 Wyandotte St E", new Date(), new LatLng(42.316671, -83.03119)));
+
+        DataOperation dataOperation = new DataOperation();
+
+        // Get user.
+        MyApplication myApp = (MyApplication) getApplication();
+        String user = myApp.getValue();
+
+        Context context = this;
+        String userId = dataOperation.getUserInfo(context, user).get(0);
+        ArrayList<ArrayList<String>> allRecords = dataOperation.getRecordInfo(context, userId);
+
+        for (int i = 0; i < allRecords.size() - 1; i++) {
+            LatLng point = new LatLng(Double.parseDouble(allRecords.get(i).get(3)),
+                    Double.parseDouble(allRecords.get(i).get(4)));
+            LIST_LOCATIONS.add(new EvalRecord(allRecords.get(i).get(2), point));
+        }
     }
+
 }

@@ -22,7 +22,7 @@ public class FacilityDataAdapter {
      * @param rowNumber
      * @return
      */
-    public Facility getRow(int rowNumber) {
+    private Facility getRow(int rowNumber) {
 
         return new Facility(dataTable.get(rowNumber).get(0),
                 dataTable.get(rowNumber).get(1),
@@ -30,6 +30,19 @@ public class FacilityDataAdapter {
                 Double.parseDouble(dataTable.get(rowNumber).get(3)),
                 dataTable.get(rowNumber).get(4),
                 dataTable.get(rowNumber).get(5));
+    }
+
+    /**
+     *
+     * @return
+     */
+    public ArrayList<Facility> getAllFacilities() {
+        ArrayList<Facility> results = new ArrayList<>();
+        for (int i = 0; i < this.dataTable.size() - 1; i++) {
+            results.add(getRow(i));
+        }
+
+        return results;
     }
 
 }

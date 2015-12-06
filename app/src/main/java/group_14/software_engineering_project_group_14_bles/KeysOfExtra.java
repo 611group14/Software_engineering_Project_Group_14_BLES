@@ -6,5 +6,6 @@ package group_14.software_engineering_project_group_14_bles;
 public class KeysOfExtra {
 
     public static String MAIN_MAP_LAST_EVAL_POINT = "mainMapLastEvalPoint";
+    public static String EVAL_DETAILS_CURRENT_USER = "evalDetailsCurrentUser";
 
 }

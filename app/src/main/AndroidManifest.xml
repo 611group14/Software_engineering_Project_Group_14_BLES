@@ -60,7 +60,9 @@
             android:name=".evaluation.EvalDetailsActivity"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
-        <activity android:name=".evaluation.EvalRecordPickerActivity" >
+        <activity
+            android:name=".evaluation.EvalRecordPickerActivity"
+            android:label="Pick an evaluation record">
         </activity>
     </application>
 
