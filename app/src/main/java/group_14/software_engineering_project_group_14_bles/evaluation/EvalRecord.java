@@ -10,21 +10,15 @@ import java.util.Date;
 public class EvalRecord {
 
     private String name;
-    private Date creationTime;
     private LatLng point;
 
-    public EvalRecord(String name, Date time, LatLng point) {
+    public EvalRecord(String name, LatLng point) {
         this.name = name;
-        this.creationTime = time;
         this.point = point;
     }
 
     public String getName() {
         return this.name;
-    }
-
-    public Date getCreationTime() {
-        return this.creationTime;
     }
 
     public LatLng getPoint() {

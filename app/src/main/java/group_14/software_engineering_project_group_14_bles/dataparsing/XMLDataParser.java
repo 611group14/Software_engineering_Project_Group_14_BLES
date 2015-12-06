@@ -15,6 +15,14 @@ import java.util.ArrayList;
  */
 public class XMLDataParser {
 
+    /**
+     * Parse all facility data of an original XML file, and save the data into
+     * a String list.
+     *
+     * @param context
+     * @param xmlFileName
+     * @return
+     */
     public static ArrayList<ArrayList<String>> parseFacilityData(Context context, String xmlFileName) {
 
         ArrayList<ArrayList<String>> facility = new ArrayList<>();

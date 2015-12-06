@@ -338,7 +338,7 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
                 case "Community Center":
                     markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.communitycentre));
                     break;
-                case "Hosiptal":
+                case "Hospital":
                     markers.get(i).setIcon(BitmapDescriptorFactory.fromResource(R.drawable.firstaid));
                     break;
                 case "Park":
@@ -361,14 +361,15 @@ public class MapsActivity extends AppCompatActivity implements OnMarkerDragListe
 
         }
 
-        ArrayList<String> backList1 = new ArrayList<String>();
-        ArrayList<ArrayList<String>> backListInfo1 = new ArrayList<ArrayList<String>>();
-        backList1 = dataOperation.getFacilities(context, "Fire Station");
-        backListInfo1 = dataOperation.getFacilityInfo(context,backList1);
-        for(int i =0; i<backListInfo1.size()-1;i++)
-        {
-            Toast.makeText(this,""+backListInfo.get(i).get(5),Toast.LENGTH_LONG).show();
-        }
+
+//        ArrayList<String> backList1 = new ArrayList<String>();
+//        ArrayList<ArrayList<String>> backListInfo1 = new ArrayList<ArrayList<String>>();
+//        backList1 = dataOperation.getFacilities(context, "Fire Station");
+//        backListInfo1 = dataOperation.getFacilityInfo(context,backList1);
+//        for(int i =0; i<backListInfo1.size()-1;i++)
+//        {
+//            Toast.makeText(this,""+backListInfo.get(i).get(5),Toast.LENGTH_LONG).show();
+//        }
 
     }
     //==============================================================

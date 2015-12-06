@@ -34,6 +34,9 @@ public class WelcomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
 
+        MyApplication app = (MyApplication) getApplication();
+        app.setValue("NULL");
+
         TitanicTextView tv = (TitanicTextView) findViewById(R.id.my_text_view);
 
         // set fancy typeface
